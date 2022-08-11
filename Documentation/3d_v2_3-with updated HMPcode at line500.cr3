@@ -1,0 +1,508 @@
+'CR3000 Series Datalogger
+
+'Copyright (c) 2002, 2006 Campbell Scientific, Inc. All rights reserved.
+
+'31 Aug 09
+'version 2.3
+
+
+' This datalogger program measures turbulence sensors at 10 or 20 Hz. The time series
+'can be saved to a card. The datalogger will also compute online turbulent fluxes
+'from the measured data. The flux table saves all the cross products that are
+'required to rotate the online fluxes into natural wind coordinates in post
+'processing as described in Kaimal and Finnigan (1994), and Tanner and Thurtell (1969).
+
+
+'The following sensors are measured:
+'
+'CSAT3		three dimensional sonic anemometer
+'HMP45C/HMP155	temperature and relative humidity probe
+
+
+' The sign convention for the fluxes is positive away from the surface and negative
+'towards the surface.
+'
+' The datalogger will introduce lags into the CSAT3 and datalogger Panel Temperature data so
+'that all measurements are aligned in time. The lags are a function of the Scan
+'Interval and are computed automatically by the program.
+'
+' The site attendant must load in several constants and calibration values. Search
+'for the text string "unique" to find the locations where unique constants and
+'calibration values are entered.
+
+
+'*** Unit Definitions ***
+
+'Symbol	Units
+'C		Celsius
+'degrees	degrees (angle)
+'kg		kilograms
+'m		meters
+'s		seconds
+'V		volts
+'W		Watts
+
+
+'*** Wiring ***
+
+'SDM INPUT
+'SDM-C1	CSAT3 SDM Data (green)
+'SDM-C2	CSAT3 SDM Clock (white)
+'SDM-C3	CSAT3 SDM Enable (brown)
+'G		CSAT3 SDM reference (black)
+'		CSAT3 SDM shield (clear)
+
+
+'ANALOG INPUT
+'5H		HMP45C or HMP155 temperature signal (yellow)
+'5L		HMP45C or HMP155 signal reference (white)
+'gnd		HMP45C or HMP155 shield (clear)
+
+'6H		HMP45C or HMP155 relative humidity signal (blue)
+'6L		short jumper wire to 5L
+
+
+'POWER OUT
+'12V		HMP45C or HMP155 power (red)
+'G		HMP45C or HMP155 power reference (black)
+
+
+'POWER IN
+'12V		datalogger (red)
+'G		datalogger (black)
+
+
+'EXTERNAL POWER SUPPLY
+'POS		CSAT3 power (red)
+'		datalogger (red)
+'NEG		CSAT3 power reference (black)
+'		CSAT3 power shield (clear)
+'		datalogger (black)
+
+
+PipeLineMode
+
+'*** Constants ***
+
+'Measurement Rate				'10 Hz		20 Hz
+Const SCAN_INTERVAL = 100		'100 mSec		50 mSec
+
+'Output period
+Const OUTPUT_INTERVAL = 30		'Online flux data output interval in minutes.
+Const NUM_DAY_CPU = 7			'Number of days of data to store on the CPU.
+
+Const HMP_T_MULT = 0.1			'Unique multiplier for temperature; HMP45C = 0.1 and HMP155 = 0.14.
+Const HMP_T_OFFSET = -40			'Unique offset for temperature; HMP45C = -40 and HMP155 = -80.
+Const PRESS = 100				'Unique value for atmospheric pressure (kPa).
+Const CSAT3_AZIMUTH = 0			'Unique value.
+'Compass azimuth of the -x axis. For the figure
+' below, CSAT3_AZIMUTH = 90.
+' () -> Compass coordinate system
+' {} -> Right handed coordinate system
+'
+'
+'                               (N)
+'                               {-y}
+'                                |
+'                                |
+'                                |
+'                                |
+'                                |
+'              (W) {+x} <-------[ ]----X--- {-x} (E)
+'                              / |      \
+'                    CSAT3 Block |      CSAT3 Transducers
+'                                |
+'                                |
+'                                v
+'                               {+y}
+'                               (S)
+'
+'The program computes the compass wind direction, using the constant
+' CSAT3_AZIMUTH, and a CSAT3 wind direction. Good CSAT3 wind directions
+' are between -90 to 0 and 0 to 90 degrees, e.g. the wind is blowing into
+' the CSAT3 sensor head.
+
+
+Const OFFSET = 16						'An offset delay that will be introduced to the CSAT3 data.
+Const DELAY_CSAT = 2					'Fixed inherent lag of the CSAT3 data (two scans).
+
+'Determine scan buffer size, CSAT3 Execution Parameters and fixed lag for CSAT3.
+Const SCAN_BUFFER_SIZE = 60*INT (1000/SCAN_INTERVAL)	'Compute a 60 second scan buffer.
+Const CSAT_OPT = INT (1000/SCAN_INTERVAL)			'Compute CSAT3 Execution Parameter (10 or 20 Hz).
+Const CSAT_REC_BCK = OFFSET-DELAY_CSAT				'Number of records back to align CSAT3 data.
+
+'Compute CPU and card storage size for the FLUX DataTables.
+Const FLUX_SIZE_CPU = (NUM_DAY_CPU*1440)/OUTPUT_INTERVAL'Size of flux DataTable on CPU [days].
+
+Const CP = 1004.67				'Estimate of heat capacity of air [J/(kg K)].
+Const SDM_PER = 30				'Default SDM clock speed.
+Const R = 8.3143e-3				'Universal gas constant [kPa m^3/(K mol) ].
+Const RD = R/29				'Gas constant for dry air [kPa m^3/(K g)].
+Const RV = R/18				'Gas constant for water vapor [kPa m^3/(K g)].
+
+
+'*** Variables ***
+
+'Online lagged CSAT3 data.
+Public aligned_data(6)
+Alias aligned_data(1) = panel_temp
+Alias aligned_data(2) = Ux
+Alias aligned_data(3) = Uy
+Alias aligned_data(4) = Uz
+Alias aligned_data(5) = Ts
+Alias aligned_data(6) = diag_csat
+Units panel_temp = C
+Units Ux = m/s
+Units Uy = m/s
+Units Uz = m/s
+Units Ts = C
+Units diag_csat = unitless
+
+
+Public diag_bits(4) As Boolean	'Warning flags.
+Alias diag_bits(1) = del_T_f		'Delta temperature warning flag.
+Alias diag_bits(2) = sig_lck_f	'Poor signal lock warning flag.
+Alias diag_bits(3) = amp_h_f		'Amplitude high warning flag.
+Alias diag_bits(4) = amp_l_f		'Amplitude low warning flag.
+Units diag_bits = samples
+
+
+'No delay meteorological variables.
+Public hmp(2)				'HMP45C or HMP155 temperature and relative humidity.
+Public e_hmp				'HMP45C or HMP155 vapor pressure.
+Dim H2O_hmp_mean			'Mean HMP45C or HMP155 vapor density.
+Dim rho_a_mean				'Mean air density.
+Dim rh_hmp_mean			'Mean HMP45C or HMP155 relative humidity.
+Public batt_volt			'Datalogger battery voltage.
+Alias hmp(1) = t_hmp
+Alias hmp(2) = rh_hmp
+Units t_hmp = C
+Units rh_hmp = percent
+Units e_hmp = kPa
+Units H2O_hmp_mean = g/m^3
+Units rho_a_mean = kg/m^3
+Units rh_hmp_mean = percent
+Units batt_volt = V
+
+
+'Flux variables.
+Dim Hs					'Sensible heat flux using sonic temperature.
+Dim tau					'Momentum flux.
+Dim u_star				'Friction velocity.
+Dim cov_out(21)			'Covariances of scalars and wind, wind vector, t_hmp_mean, e_hmp_mean, and e_sat_hmp_mean.
+Units Hs = W/m^2
+Units tau = kg/(m s^2)
+Units u_star = m/s
+
+
+'Aliases for covariances.
+Alias cov_out(1) = stdev_Ts
+Alias cov_out(2) = cov_Ts_Ux
+Alias cov_out(3) = cov_Ts_Uy
+Alias cov_out(4) = cov_Ts_Uz
+Alias cov_out(5) = stdev_Ux
+Alias cov_out(6) = cov_Ux_Uy
+Alias cov_out(7) = cov_Ux_Uz
+Alias cov_out(8) = stdev_Uy
+Alias cov_out(9) = cov_Uy_Uz
+Alias cov_out(10) = stdev_Uz
+Units stdev_Ts = C
+Units cov_Ts_Ux = m C/s
+Units cov_Ts_Uy = m C/s
+Units cov_Ts_Uz = m C/s
+Units stdev_Ux = m/s
+Units cov_Ux_Uy = (m/s)^2
+Units cov_Ux_Uz = (m/s)^2
+Units stdev_Uy = m/s
+Units cov_Uy_Uz = (m/s)^2
+Units stdev_Uz = m/s
+
+'Wind directions and speed.
+'Alias cov_out(11) = wnd_spd - in compass coordinate system, same as CSAT3.
+'Alias cov_out(12) = rslt_wnd_spd - in compass coordinate system, same as CSAT3.
+Alias cov_out(13) = wnd_dir_compass
+'Alias cov_out(14) = std_wnd_dir - in compass coordinate system, same as CSAT3.
+Alias cov_out(15) = wnd_spd
+Alias cov_out(16) = rslt_wnd_spd
+Alias cov_out(17) = wnd_dir_csat3
+Alias cov_out(18) = std_wnd_dir
+Alias cov_out(19) = t_hmp_mean
+Alias cov_out(20) = e_hmp_mean
+Alias cov_out(21) = e_sat_hmp_mean
+Units wnd_dir_compass = degrees
+Units wnd_spd = m/s
+Units rslt_wnd_spd = m/s
+Units wnd_dir_csat3 = degrees
+Units std_wnd_dir = degrees
+Units t_hmp_mean = C
+
+
+'Diagnostic variables.
+Dim disable_flag(2) As Boolean	'Intermediate processing disable flags.
+'disable_flag(1)				'TRUE when CSAT3 diagnostic warning flags are on or CSAT3 has no data.
+'disable_flag(2)				'TRUE when CSAT3 diagnostic warning flags are on.
+'                  				  Used to filter the sum of CSAT3 diagnostic warning flags.
+Dim n						'Number of samples in the online covariances.
+Units n = samples
+
+
+'No delay CSAT3 data.
+Dim wind_raw(5)
+Alias wind_raw(1) = Ux_raw
+Alias wind_raw(2) = Uy_raw
+Alias wind_raw(3) = Uz_raw
+Alias wind_raw(4) = Ts_raw
+Alias wind_raw(5) = diag_csat_raw
+Units wind_raw = m/s
+Units Ts_raw = C
+Units diag_csat_raw = unitless
+
+'No delay analog measurements.
+Dim panel_temp_raw
+Units panel_temp_raw = C
+
+
+'Working variables.
+Dim e_sat_hmp					'HMP45C or HMP155 saturation vapor pressure.
+Dim cov_array(1,4)				'Arrays used to hold the input data for the covariance instructions.
+Dim scan_count As Long			'Number scans executed.
+Dim wind_east					'East wind in compass coordinate system.
+Dim wind_north					'North wind in compass coordinate system.
+Dim save_ts_flag_on As Boolean	'Used to synchronize the time series output to the even minute.
+Dim dly_data_out(6)				'Variable used to temporarily store the lagged record.
+Dim rho_d_mean					'Density of dry air used in Webb et al. term [kg / m^3].
+Dim diag_csat_work As Long		'Working variable used to break out the CSAT3 diagnostic bits.
+
+
+
+'*** Final Output Data Tables ***
+
+'Online flux data.
+DataTable (flux,TRUE,FLUX_SIZE_CPU)
+  DataInterval (0,OUTPUT_INTERVAL,Min,10)
+  CardOut (0,-1)
+
+  Sample (1,Hs,IEEE4)
+  Sample (1,tau,IEEE4)
+  Sample (1,u_star,IEEE4)
+
+  Average (1,Ts,IEEE4,disable_flag(1))
+  Sample (4,stdev_Ts,IEEE4)
+
+  Average (1,Ux,IEEE4,disable_flag(1))
+  Sample (3,stdev_Ux,IEEE4)
+  Average (1,Uy,IEEE4,disable_flag(1))
+  Sample (2,stdev_Uy,IEEE4)
+  Average (1,Uz,IEEE4,disable_flag(1))
+  Sample (1,stdev_Uz,IEEE4)
+
+  Sample (1,t_hmp_mean,IEEE4)
+  Sample (1,H2O_hmp_mean,IEEE4)
+  Sample (1,rh_hmp_mean,IEEE4)
+  Sample (1,rho_a_mean,IEEE4)
+
+  Sample (1,wnd_dir_compass,IEEE4)
+  Sample (1,wnd_dir_csat3,IEEE4)
+  Sample (1,wnd_spd,IEEE4)
+  Sample (1,rslt_wnd_spd,IEEE4)
+  Sample (1,std_wnd_dir,IEEE4)
+
+  Totalize (1,n,IEEE4,disable_flag(1))
+
+  Totalize (1,n,IEEE4,NOT (disable_flag(1) OR disable_flag(2)))
+  FieldNames ("csat_warnings")
+
+  Totalize (1,n,IEEE4,NOT (del_T_f) OR NOT (disable_flag(2)))
+  FieldNames ("del_T_f_Tot")
+  Totalize (1,n,IEEE4,NOT (sig_lck_f) OR NOT (disable_flag(2)))
+  FieldNames ("sig_lck_f_Tot")
+  Totalize (1,n,IEEE4,NOT (amp_h_f) OR NOT (disable_flag(2)))
+  FieldNames ("amp_h_f_Tot")
+  Totalize (1,n,IEEE4,NOT (amp_l_f) OR NOT (disable_flag(2)))
+  FieldNames ("amp_l_f_Tot")
+
+  Average (1,panel_temp,IEEE4,FALSE)
+  Average (1,batt_volt,IEEE4,FALSE)
+EndTable
+
+
+'Time series data.
+DataTable (ts_data,save_ts_flag_on,-1)
+  DataInterval (0,SCAN_INTERVAL,mSec,100)
+  CardOut (0,-1)
+
+  Sample (1,Ux,IEEE4)
+  Sample (1,Uy,IEEE4)
+  Sample (1,Uz,IEEE4)
+  Sample (1,Ts,IEEE4)
+  Sample (1,diag_csat,IEEE4)
+  Sample (1,t_hmp,IEEE4)
+  Sample (1,e_hmp,IEEE4)
+EndTable
+
+
+'*** Working Data Tables ***
+
+'Reorder the data and prepare to lag all the data.
+DataTable (dly_data,TRUE,OFFSET)
+  TableHide
+  Sample (1,panel_temp_raw,IEEE4)
+  Sample (1,Ux_raw,IEEE4)
+  Sample (1,Uy_raw,IEEE4)
+  Sample (1,Uz_raw,IEEE4)
+  Sample (1,Ts_raw,IEEE4)
+  Sample (1,diag_csat_raw,IEEE4)
+EndTable
+
+
+'Compute the flux covariances and the other cross products required to rotate the data
+'into natural wind coordinates. This data is output every OUTPUT_INTERVAL minutes.
+DataTable (comp_cov,TRUE,1)
+  TableHide
+  DataInterval (0,OUTPUT_INTERVAL,Min,1)
+
+  'Compute covariances from CSAT3 data.
+  Covariance (4,cov_array(1,1),IEEE4,disable_flag(1),10)
+  WindVector (1,wind_east,wind_north,IEEE4,disable_flag(1),0,1,2)
+  WindVector (1,Uy,Ux,IEEE4,disable_flag(1),0,1,2)
+  Average (1,t_hmp,IEEE4,FALSE)
+  Average (1,e_hmp,IEEE4,FALSE)
+  Average (1,e_sat_hmp,IEEE4,FALSE)
+EndTable
+
+
+
+'*** Program ***
+
+BeginProg
+  n = 1
+
+  'Set all variables to NaN.
+  Move (panel_temp,6,NaN,1)
+
+  'Set the SDM clock speed.
+  SDMSpeed (SDM_PER)
+
+
+  Scan (SCAN_INTERVAL,mSec,SCAN_BUFFER_SIZE,0)
+    'Datalogger panel temperature.
+    PanelTemp (panel_temp_raw,250)
+
+
+    'Get CSAT3 wind and sonic temperature data.
+    CSAT3 (Ux_raw,1,3,91,CSAT_OPT)
+
+
+    'Measure battery voltage.
+    Battery (batt_volt)
+
+
+    'Find the HMP45C or HMP155 vapor pressure and saturation vapor pressure (kPa).
+    VaporPressure (e_hmp,t_hmp,rh_hmp)
+    SatVP (e_sat_hmp,t_hmp)
+
+
+
+    'Lag the CSAT3 measurement.
+    CallTable dly_data
+
+
+
+    If ( scan_count >= OFFSET ) Then
+      'Load in the analog data that has been lagged by OFFSET scans.
+      GetRecord (dly_data_out(1),dly_data,OFFSET)
+      Move (panel_temp,1,dly_data_out(1),1)	'panel_temp
+
+      'Load in CSAT3 data that has been lagged by CSAT_REC_BCK scans.
+      GetRecord (dly_data_out(1),dly_data,CSAT_REC_BCK)
+      Move (Ux,5,dly_data_out(2),5)			'Ux, Uy, Uz, Ts, diag_csat
+
+
+      'Copy and convert CSAT3 for compass wind vector computation.
+      wind_east = -1*Uy
+      wind_north = Ux
+
+
+      'Define 61502 as NaN.
+      If ( diag_csat = NaN ) Then ( diag_csat = 61502 )
+
+      'Break up the four CSAT3 warning flags into four separate bits.
+      diag_csat_work = diag_csat
+      del_T_f = diag_csat_work AND &h8000
+      sig_lck_f = diag_csat_work AND &h4000
+      amp_h_f = diag_csat_work AND &h2000
+      amp_l_f = diag_csat_work AND &h1000
+
+      'Turn on the intermediate processing disable flag when any CSAT3 warning flag is
+      ' high, including the special cases NaN (61502), a Lost Trigger (61440), No Data
+      ' (61503), an SDM error (61441), or wrong CSAT3 embedded code (61442).
+      disable_flag(1) = diag_csat_work AND &hf000
+
+      'Turn on only when CSAT3 diagnostic warning flags are set.
+      disable_flag(2) = disable_flag(1) AND (Ts <> NaN)
+
+      'Save the four most significant bits of the CSAT3 diagnostics, except for the
+      ' special cases NaN (61502), a Lost Trigger (61440), No Data (61503), an SDM
+      ' error (61441), or wrong CSAT3 embedded code (61442).
+      If ( diag_csat_work <= &hf000 ) Then ( diag_csat = INT (diag_csat_work/&h1000) )
+
+
+      'Start saving the time series data on an even minute boundary.
+      If ( (NOT (save_ts_flag_on)) AND (IfTime (0,1,Min)) ) Then ( save_ts_flag_on = TRUE )
+
+
+      'Save adjusted time series data.
+      CallTable ts_data
+
+      'Load the arrays that hold the input data for the covariance instructions.
+      cov_array(1,1) = Ts
+      Move (cov_array(1,2),3,Ux,3)
+
+      'Compute the online covariances.
+      CallTable comp_cov
+
+
+      If ( comp_cov.Output(1,1) ) Then
+        GetRecord (cov_out(1),comp_cov,1)
+
+        'Compass wind direction will be between 0 and 360 degrees.
+        wnd_dir_compass = (wnd_dir_compass+CSAT3_AZIMUTH) MOD 360
+
+        'CSAT3 wind direction will be between 0 to 180 degrees and 0 to -180 degrees.
+        If ( wnd_dir_csat3 ) > 180 Then ( wnd_dir_csat3 = wnd_dir_csat3-360 )
+
+        H2O_hmp_mean = e_hmp_mean/((t_hmp_mean+273.15)*RV)
+        rho_d_mean = (PRESS-e_hmp_mean)/((t_hmp_mean+273.15)*RD)
+        rho_a_mean = (rho_d_mean+H2O_hmp_mean)/1000
+        rh_hmp_mean = 100*e_hmp_mean/e_sat_hmp_mean
+
+
+        'Compute online fluxes.
+        Hs = rho_a_mean*CP*cov_Ts_Uz
+
+        tau = SQR ((cov_Ux_Uz*cov_Ux_Uz)+(cov_Uy_Uz*cov_Uy_Uz))
+        u_star = SQR (tau)
+        tau = rho_a_mean*tau
+
+
+        'Compute the standard deviation from the variance.
+        stdev_Ts = SQR (stdev_Ts)
+        stdev_Ux = SQR (stdev_Ux)
+        stdev_Uy = SQR (stdev_Uy)
+        stdev_Uz = SQR (stdev_Uz)
+      EndIf
+
+      CallTable flux
+    Else
+      scan_count = scan_count+1
+    EndIf
+  NextScan
+
+  SlowSequence
+  Scan (20,Sec,3,0)
+    'Measure the HMP45C or HMP155 temperature and relative humidity.
+    VoltDiff (t_hmp,1,mV1000,5,TRUE,450,250,HMP_T_MULT,HMP_T_OFFSET)
+    VoltDiff (rh_hmp,1,mV1000,6,TRUE,450,250,0.1,0)
+
+  NextScan
+EndProg

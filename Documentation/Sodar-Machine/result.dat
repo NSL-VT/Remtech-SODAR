@@ -1,0 +1,48 @@
+ NAME OF DATA FILE (8CHARACTERS MAX.)     :    test1   
+
+  DATA FILE TITLE : PA SODAR  SYSTEM test1    BEAM 1                  
+
+  taper60.p ANTENNA DEFINITION FILE WILL BE USED
+
+           NUMBER OF DATA POINTS READ :  60
+
+
+  DATA FILE TITLE : PA SODAR  SYSTEM test1    BEAM 2                  
+
+  taper60.p ANTENNA DEFINITION FILE WILL BE USED
+
+           NUMBER OF DATA POINTS READ :  60
+
+
+  DATA FILE TITLE : PA SODAR  SYSTEM test1    BEAM 3                  
+
+  taper60.p ANTENNA DEFINITION FILE WILL BE USED
+
+           NUMBER OF DATA POINTS READ :  60
+
+
+
+
+
+
+      -----------------------------------------------------------------
+      |  PA SODAR  SYSTEM test1      |  BEAM 1  |  BEAM 2  |  BEAM 3  |
+      -----------------------------------------------------------------
+      |                ANTENNA ELEMENTS CHARACTERISTICS               |
+      -----------------------------------------------------------------
+      |    No OF NON EMITTING ELEM.  |     0    |     0    |     0    |
+      -----------------------------------------------------------------
+      |              AMPLITUDE MEAN  |     2.0  |     2.0  |     2.0  |
+      -----------------------------------------------------------------
+      |         AMPLITUDE SIGMA (%)  |     0.0  |     0.0  |     0.0  |
+      -----------------------------------------------------------------
+      |       PHASE SIGMA (DEGREES)  |    98.9  |    98.7  |    78.9  |
+      -----------------------------------------------------------------
+      |                POWER AMPLIFIER CHARACTERISTICS                |
+      -----------------------------------------------------------------
+      |     AMPLITUDE RATIO CHB/CHA  |    1.00  |    1.00  |    1.00  |
+      -----------------------------------------------------------------
+      |  PHASE DIFF (B-A) (DEGREES)  |   -55.1  |    63.3  |    22.8  |
+      -----------------------------------------------------------------
+
+

@@ -1,0 +1,83 @@
+test                                                                            
+
+          start  6/ 5/**  0: 0           stop  6/ 5/**  1:20
+
+          WINDROSE NUMBER :  1
+               ALTITUDE :    20 M
+               FROM  0H00 TO 24H00
+                      : -9999. - -9999.        
+               DATA USED / BLKS READ : 100.0 %
+               RECOVERY RATIO        : 100.0 %
+
+
+          WINDROSE NUMBER :  2
+               ALTITUDE :    20 M
+               FROM  0H00 TO 24H00
+                      : -9999. - -9999.        
+               DATA USED / BLKS READ : 100.0 %
+               RECOVERY RATIO        : 100.0 %
+
+
+          WINDROSE NUMBER :  3
+               ALTITUDE :    20 M
+               FROM  0H00 TO 24H00
+                      : -9999. - -9999.        
+               DATA USED / BLKS READ : 100.0 %
+               RECOVERY RATIO        : 100.0 %
+
+
+          WINDROSE NUMBER :  4
+               ALTITUDE :    20 M
+               FROM  0H00 TO 24H00
+                      : -9999. - -9999.        
+               DATA USED / BLKS READ : 100.0 %
+               RECOVERY RATIO        : 100.0 %
+
+
+          WINDROSE NUMBER :  5
+               ALTITUDE :    20 M
+               FROM  0H00 TO 24H00
+                      : -9999. - -9999.        
+               DATA USED / BLKS READ : 100.0 %
+               RECOVERY RATIO        : 100.0 %
+
+
+          WINDROSE NUMBER :  6
+               ALTITUDE :    20 M
+               FROM  0H00 TO 24H00
+                      : -9999. - -9999.        
+               DATA USED / BLKS READ : 100.0 %
+               RECOVERY RATIO        : 100.0 %
+
+
+          WINDROSE NUMBER :  7
+               ALTITUDE :    20 M
+               FROM  0H00 TO 24H00
+                      : -9999. - -9999.        
+               DATA USED / BLKS READ : 100.0 %
+               RECOVERY RATIO        : 100.0 %
+
+
+               OCCURENCES ARRAY :
+
+             N NNE  NE ENE   E ESE  SE SSE   S SSW  SW WSW   W WNW  NW NNW  TOT.
+          ----------------------------------------------------------------------
+WINDROSE 1   0   0   0   0   0   0   8   1   0   0   0   0   0   0   0   0    9
+WINDROSE 2   0   0   0   0   0   0   8   1   0   0   0   0   0   0   0   0    9
+WINDROSE 3   0   0   0   0   0   0   8   1   0   0   0   0   0   0   0   0    9
+WINDROSE 4   0   0   0   0   0   0   8   1   0   0   0   0   0   0   0   0    9
+WINDROSE 5   0   0   0   0   0   0   8   1   0   0   0   0   0   0   0   0    9
+WINDROSE 6   0   0   0   0   0   0   8   1   0   0   0   0   0   0   0   0    9
+WINDROSE 7   0   0   0   0   0   0   8   1   0   0   0   0   0   0   0   0    9
+
+               AVERAGES ARRAY ( M/S ) :
+
+             N NNE  NE ENE   E ESE  SE SSE   S SSW  SW WSW   W WNW  NW NNW  TOT.
+          ----------------------------------------------------------------------
+WINDROSE 1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0  0.0
+WINDROSE 2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0  0.0
+WINDROSE 3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0  0.0
+WINDROSE 4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0  0.0
+WINDROSE 5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0  0.0
+WINDROSE 6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0  0.0
+WINDROSE 7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0  0.0

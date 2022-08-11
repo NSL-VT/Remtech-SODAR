@@ -1,0 +1,2358 @@
+08/29/2012 09:00:01 Sodar Connected Type = 1
+08/29/2012 09:31:50 Manually deconnected
+08/29/2012 10:00:49 Sodar Connected Type = 1
+08/29/2012 10:01:06 Manually deconnected
+08/29/2012 10:04:47 Sodar Connected Type = 2
+08/29/2012 10:13:10 Sodar Connected Type = 2
+08/29/2012 10:21:42 Sodar Connected Type = 2
+08/29/2012 10:23:31 Manually deconnected
+08/29/2012 10:24:36 Sodar Connected Type = 2
+08/29/2012 10:25:34 Manually deconnected
+08/29/2012 10:27:25 Sodar Connected Type = 1
+08/29/2012 10:27:57 Manually deconnected
+08/29/2012 10:35:33 Sodar Connected Type = 1
+08/29/2012 10:36:13 Manually deconnected
+08/29/2012 10:36:32 Sodar Connected Type = 2
+08/29/2012 10:36:57 Manually deconnected
+08/29/2012 10:59:38 Sodar Connected Type = 1
+01/07/2013 18:58:43 Sodar Connected Type = 1
+01/07/2013 18:59:26 Sodar Connected Type = 1
+01/07/2013 19:18:09 Sodar Connected Type = 1
+01/08/2013 10:47:15 Sodar Connected Type = 1
+01/08/2013 11:02:08 Sodar Connected Type = 1
+01/08/2013 11:02:36 Sodar Connected Type = 1
+01/08/2013 11:06:45 Sodar Connected Type = 1
+01/08/2013 11:07:06 Sodar data  = 12: 0
+01/08/2013 11:10:40 Sodar data  = 12:10
+01/08/2013 11:11:26 Manually deconnected
+01/08/2013 11:38:36 Sodar Connected Type = 1
+01/08/2013 15:31:41 Sodar Connected Type = 1
+01/08/2013 16:47:27 Sodar Connected Type = 1
+01/08/2013 19:53:11 Error Timer deconnected
+11/25/2015 08:17:05 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/25/2015 08:17:05 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/25/2015 08:17:15 Exit From SodterGraphic
+11/25/2015 08:17:18 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/25/2015 08:17:18 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+07/07/2016 09:54:31 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+07/07/2016 09:54:31 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+07/07/2016 09:54:42 Link Test ...
+07/07/2016 09:54:48 test port 21 ...
+07/07/2016 09:54:51 test port 2100 ...
+07/07/2016 09:54:54 test port 2300 ...
+07/07/2016 09:54:59 Ethernet Connexion=0
+07/07/2016 09:55:05 GetFileZip /usr/src/sodar/dirftp.dat=0
+07/07/2016 09:55:09 GetFileZip /usr/src/sodar/sodcon.ini=0
+07/07/2016 09:55:10 Sodar Connected Type = 1
+07/07/2016 09:55:11 GetFile /usr/src/sodar/gpa26-2.log = -1
+07/07/2016 09:55:20 GetFileZip /usr/src/sodar/20160707.dat=0
+07/07/2016 09:57:24 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+07/07/2016 09:57:24 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+07/07/2016 09:57:35 Link Test ...
+07/07/2016 09:57:40 test port 21 ...
+07/07/2016 09:57:43 test port 2100 ...
+07/07/2016 09:57:46 test port 2300 ...
+07/07/2016 09:57:51 Ethernet Connexion=0
+07/07/2016 09:57:56 GetFileZip /usr/src/sodar/dirftp.dat=0
+07/07/2016 09:58:00 GetFileZip /usr/src/sodar/sodcon.ini=0
+07/07/2016 09:58:01 Sodar Connected Type = 1
+07/07/2016 09:58:02 GetFile /usr/src/sodar/gpa26-2.log = -1
+07/07/2016 09:58:11 GetFileZip /usr/src/sodar/20160707.dat=0
+07/07/2016 09:59:35 GetFileZip /usr/src/sodar/20160707.dat=0
+07/07/2016 10:10:07 GetFileZip /usr/src/sodar/20160707.dat=0
+07/07/2016 10:20:00 GetFileZip /usr/src/sodar/20160707.dat=0
+07/07/2016 10:29:54 GetFileZip /usr/src/sodar/20160707.dat=0
+07/07/2016 10:39:47 GetFileZip /usr/src/sodar/20160707.dat=0
+07/07/2016 10:49:41 GetFileZip /usr/src/sodar/20160707.dat=0
+07/07/2016 10:59:34 GetFileZip /usr/src/sodar/20160707.dat=0
+07/07/2016 10:59:42 Pause = 200
+07/11/2016 09:27:18 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+07/11/2016 09:27:18 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+07/11/2016 09:27:29 Link Test ...
+07/11/2016 09:27:34 test port 21 ...
+07/11/2016 09:27:37 test port 2100 ...
+07/11/2016 09:27:40 test port 2300 ...
+07/11/2016 09:27:48 Ethernet Connexion=0
+07/11/2016 09:27:53 GetFileZip /usr/src/sodar/dirftp.dat=0
+07/11/2016 09:27:57 GetFileZip /usr/src/sodar/sodcon.ini=0
+07/11/2016 09:27:58 Sodar Connected Type = 1
+07/11/2016 09:27:59 GetFile /usr/src/sodar/gpa26-2.log = -1
+07/11/2016 09:28:08 GetFileZip /usr/src/sodar/20160711.dat=0
+07/11/2016 09:29:04 Pause = 20
+07/20/2016 15:14:15 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+07/20/2016 15:14:15 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+07/20/2016 15:14:25 Link Test ...
+07/20/2016 15:14:31 test port 21 ...
+07/20/2016 15:14:34 test port 2100 ...
+07/20/2016 15:14:37 test port 2300 ...
+07/20/2016 15:14:44 Ethernet Connexion=0
+07/20/2016 15:14:49 GetFileZip /usr/src/sodar/dirftp.dat=0
+07/20/2016 15:14:53 GetFileZip /usr/src/sodar/sodcon.ini=0
+07/20/2016 15:14:55 Sodar Connected Type = 1
+07/20/2016 15:14:55 GetFile /usr/src/sodar/gpa26-2.log = 0
+07/20/2016 15:25:29 Start
+07/20/2016 15:25:36 PutFileZip /usr/src/sodar/sodcon.new=0
+07/20/2016 15:25:47 GetFile /usr/src/sodar/gpa26-2.log = 0
+07/20/2016 15:26:07 Pause = 20
+07/20/2016 15:45:01 Pause = 200
+07/26/2016 09:30:46 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+07/26/2016 09:30:46 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+07/26/2016 09:31:06 Link Test ...
+07/26/2016 09:31:11 test port 21 ...
+07/26/2016 09:31:13 test port 23 ...
+07/26/2016 09:31:18 Ethernet Connexion=0
+07/26/2016 09:31:23 GetFileZip /usr/src/sodar/dirftp.dat=0
+07/26/2016 09:31:28 GetFileZip /usr/src/sodar/sodcon.ini=0
+07/26/2016 09:31:29 Sodar Connected Type = 1
+07/26/2016 09:31:30 GetFile /usr/src/sodar/gpa26-2.log = -1
+07/26/2016 09:31:50 Pause = 20
+07/26/2016 09:32:45 Start
+07/26/2016 09:32:53 PutFileZip /usr/src/sodar/sodcon.new=-4
+07/26/2016 09:32:53 Error SauveFichierIniMain
+07/26/2016 09:33:34 Pause = 200
+07/26/2016 10:05:22 GetPause=-1
+07/26/2016 10:05:33 GetPause=-1
+07/29/2016 08:25:31 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+07/29/2016 08:25:31 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+07/29/2016 08:25:41 Link Test ...
+07/29/2016 08:25:46 test port 21 ...
+07/29/2016 08:25:49 test port 2100 ...
+07/29/2016 08:25:52 test port 2300 ...
+07/29/2016 08:25:58 Ethernet Connexion=0
+07/29/2016 08:26:03 GetFileZip /usr/src/sodar/dirftp.dat=0
+07/29/2016 08:26:07 GetFileZip /usr/src/sodar/sodcon.ini=0
+07/29/2016 08:26:08 Sodar Connected Type = 1
+07/29/2016 08:26:09 GetFile /usr/src/sodar/gpa26-2.log = -1
+08/01/2016 09:53:14 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+08/01/2016 09:53:14 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+08/01/2016 09:53:24 Link Test ...
+08/01/2016 09:53:29 test port 21 ...
+08/01/2016 09:53:31 test port 23 ...
+08/01/2016 09:53:37 Ethernet Connexion=0
+08/01/2016 09:53:42 GetFileZip /usr/src/sodar/dirftp.dat=0
+08/01/2016 09:53:46 GetFileZip /usr/src/sodar/sodcon.ini=0
+08/01/2016 09:53:48 Sodar Connected Type = 1
+08/01/2016 09:53:48 GetFile /usr/src/sodar/gpa26-2.log = -1
+08/01/2016 09:54:36 GetFileZip /usr/src/sodar/20160801.dat=0
+08/01/2016 09:58:32 Pause = 2000
+08/01/2016 10:14:40 GetFileZip /usr/src/sodar/20160801.dat=0
+08/01/2016 10:24:33 GetFileZip /usr/src/sodar/20160801.dat=0
+08/01/2016 10:34:26 GetFileZip /usr/src/sodar/20160801.dat=0
+08/01/2016 10:44:19 GetFileZip /usr/src/sodar/20160801.dat=0
+08/01/2016 10:54:51 GetFileZip /usr/src/sodar/20160801.dat=0
+08/01/2016 11:01:14 Pause = 20
+08/01/2016 11:02:11 GetPause=-1
+08/01/2016 11:02:23 GetPause=-1
+08/01/2016 11:02:35 GetPause=-1
+08/01/2016 11:02:36 Error Timer GetPause : 0
+08/01/2016 11:02:57 GetPause=-1
+08/01/2016 11:03:09 GetPause=-1
+08/01/2016 11:03:21 GetPause=-1
+08/01/2016 11:03:22 Error Timer GetPause : 1
+08/01/2016 11:03:42 GetPause=-1
+08/01/2016 11:03:54 GetPause=-1
+08/01/2016 11:04:06 GetPause=-1
+08/01/2016 11:04:07 Error Timer GetPause : 2
+08/01/2016 11:04:07 Disconnect auto
+08/01/2016 11:04:08 Link Test ...
+08/01/2016 11:04:23 Link Error
+08/01/2016 11:04:25 Connect auto = -10
+08/01/2016 13:34:45 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+08/01/2016 13:34:45 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+08/01/2016 13:34:56 Link Test ...
+08/01/2016 13:35:01 test port 21 ...
+08/01/2016 13:35:03 test port 23 ...
+08/01/2016 13:35:08 Ethernet Connexion=0
+08/01/2016 13:35:14 GetFileZip /usr/src/sodar/dirftp.dat=0
+08/01/2016 13:35:18 GetFileZip /usr/src/sodar/sodcon.ini=0
+08/01/2016 13:35:19 Sodar Connected Type = 1
+08/01/2016 13:35:20 GetFile /usr/src/sodar/gpa26-2.log = -1
+08/01/2016 13:35:29 GetFileZip /usr/src/sodar/20160801.dat=0
+08/01/2016 13:36:13 GetFileZip /usr/src/sodar/20160801.dat=0
+08/01/2016 14:15:17 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+08/01/2016 14:15:17 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+08/01/2016 14:15:28 Link Test ...
+08/01/2016 14:15:33 test port 21 ...
+08/01/2016 14:15:35 test port 23 ...
+08/01/2016 14:15:40 Ethernet Connexion=0
+08/01/2016 14:15:45 GetFileZip /usr/src/sodar/dirftp.dat=0
+08/01/2016 14:15:49 GetFileZip /usr/src/sodar/sodcon.ini=0
+08/01/2016 14:15:51 Sodar Connected Type = 1
+08/01/2016 14:15:51 GetFile /usr/src/sodar/gpa26-2.log = -1
+08/01/2016 14:16:01 GetFileZip /usr/src/sodar/20160801.dat=0
+08/01/2016 14:25:54 GetFileZip /usr/src/sodar/20160801.dat=0
+08/02/2016 10:13:41 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+08/02/2016 10:13:41 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+08/02/2016 10:13:51 Link Test ...
+08/02/2016 10:13:56 test port 21 ...
+08/02/2016 10:13:58 test port 23 ...
+08/02/2016 10:14:03 Ethernet Connexion=0
+08/02/2016 10:14:09 GetFileZip /usr/src/sodar/dirftp.dat=0
+08/02/2016 10:14:13 GetFileZip /usr/src/sodar/sodcon.ini=0
+08/02/2016 10:14:14 Sodar Connected Type = 1
+08/02/2016 10:14:15 GetFile /usr/src/sodar/gpa26-2.log = -1
+08/02/2016 10:14:24 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 10:15:47 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 10:25:41 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 10:36:13 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 10:46:07 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 10:56:00 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 11:05:53 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 11:15:47 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 11:25:40 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 11:36:13 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 11:46:06 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 11:55:59 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 12:05:53 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 12:15:46 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 12:26:19 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 12:36:12 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 12:46:06 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 12:55:59 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 13:05:52 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 13:15:46 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 13:25:39 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 13:36:12 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 13:46:05 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 13:55:58 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 14:05:51 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 14:16:24 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 14:25:39 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 14:36:11 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 14:46:04 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 14:55:58 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 15:05:51 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 15:15:44 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 15:26:17 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 15:36:10 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 15:46:04 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 15:55:57 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 16:05:50 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 16:15:44 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 16:26:16 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 16:36:10 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 16:46:03 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 16:55:56 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 17:05:50 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 17:15:43 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 17:26:15 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 17:36:09 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 17:46:02 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 17:55:56 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 18:05:49 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 18:15:43 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 18:26:15 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 18:36:08 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 18:46:02 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 18:55:55 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 19:05:49 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 19:15:42 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 19:26:15 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 19:36:08 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 19:46:02 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 19:55:55 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 20:05:48 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 20:15:42 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 20:26:14 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 20:36:08 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 20:46:01 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 20:55:55 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 21:05:48 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 21:15:42 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 21:26:14 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 21:36:08 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 21:46:01 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 21:55:54 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 22:05:48 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 22:15:41 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 22:26:14 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 22:36:07 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 22:46:01 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 22:55:54 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 23:05:48 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 23:15:41 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 23:26:14 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 23:36:07 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 23:46:01 GetFileZip /usr/src/sodar/20160802.dat=0
+08/02/2016 23:55:54 GetFileZip /usr/src/sodar/20160802.dat=0
+08/03/2016 00:05:48 GetFileZip /usr/src/sodar/20160802.dat=0
+08/03/2016 00:15:42 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 00:26:14 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 00:36:07 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 00:46:01 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 00:55:54 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 01:05:47 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 01:15:41 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 01:26:13 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 01:36:06 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 01:46:00 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 01:55:53 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 02:05:47 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 02:15:40 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 02:26:12 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 02:36:06 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 02:45:59 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 02:55:52 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 03:05:46 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 03:15:39 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 03:26:12 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 03:36:05 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 03:45:58 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 03:55:52 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 04:05:45 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 04:15:38 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 04:26:11 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 04:36:04 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 04:45:58 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 04:55:51 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 05:05:44 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 05:16:17 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 05:26:10 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 05:36:03 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 05:45:57 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 05:55:50 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 06:05:43 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 06:16:16 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 06:26:09 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 06:36:03 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 06:45:56 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 06:55:49 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 07:05:43 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 07:16:15 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 07:26:09 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 07:36:02 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 07:45:55 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 07:55:49 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 08:05:42 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 08:16:15 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 08:26:08 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 08:36:01 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 08:45:54 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 08:55:48 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 09:05:41 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 09:16:14 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 09:26:07 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 09:36:01 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 09:45:54 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 09:55:47 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 10:05:41 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 10:16:13 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 10:26:07 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 10:36:00 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 10:45:53 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 10:56:26 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 11:06:19 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 11:16:12 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 11:26:06 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 11:35:59 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 11:45:52 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 11:55:46 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 12:06:18 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 12:16:12 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 12:26:05 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 12:35:58 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 12:45:52 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 12:55:45 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 13:05:39 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 13:16:11 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 13:26:04 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 13:35:58 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 13:45:51 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 13:55:44 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 14:05:38 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 14:16:10 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 14:26:04 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 14:35:57 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 14:45:50 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 14:55:44 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 15:06:16 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 15:16:10 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 15:26:04 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 15:35:57 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 15:45:50 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 15:55:44 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 16:06:16 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 16:16:10 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 16:26:03 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 16:35:56 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 16:45:50 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 16:55:43 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 17:06:16 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 17:16:09 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 17:26:03 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 17:35:56 GetFileZip /usr/src/sodar/20160803.dat=0
+08/03/2016 17:43:40 Pause = 20
+08/03/2016 17:44:52 GetPause=-1
+08/03/2016 17:45:04 GetPause=-1
+08/03/2016 17:45:16 GetPause=-1
+08/03/2016 17:45:17 Error Timer GetPause : 0
+08/03/2016 17:45:38 GetPause=-1
+08/03/2016 17:45:50 GetPause=-1
+08/03/2016 17:46:01 GetPause=-1
+08/03/2016 17:46:03 Error Timer GetPause : 1
+08/03/2016 17:46:23 GetPause=-1
+08/03/2016 17:46:35 GetPause=-1
+08/03/2016 17:46:47 GetPause=-1
+08/03/2016 17:46:48 Error Timer GetPause : 2
+08/03/2016 17:46:48 Disconnect auto
+08/03/2016 17:46:49 Link Test ...
+08/03/2016 17:47:03 Link Error
+08/03/2016 17:47:06 Connect auto = -10
+10/27/2016 10:34:15 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+10/27/2016 10:34:15 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+10/27/2016 10:57:41 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+10/27/2016 10:57:41 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+10/27/2016 10:57:52 Link Test ...
+10/27/2016 10:57:55 Link Error
+10/27/2016 10:57:58 Error Connection : 1,-10
+10/27/2016 10:59:03 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+10/27/2016 10:59:03 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+10/27/2016 10:59:14 Link Test ...
+10/27/2016 10:59:19 test port 21 ...
+10/27/2016 10:59:21 test port 23 ...
+10/27/2016 10:59:27 Ethernet Connexion=0
+10/27/2016 10:59:32 GetFileZip /usr/src/sodar/dirftp.dat=0
+10/27/2016 10:59:36 GetFileZip /usr/src/sodar/sodcon.ini=0
+10/27/2016 10:59:37 Sodar Connected Type = 1
+10/27/2016 10:59:38 GetFile /usr/src/sodar/gpa26-2.log = -1
+10/27/2016 10:59:48 GetFileZip /usr/src/sodar/20161027.dat=0
+10/27/2016 11:00:20 Pause = 20
+10/27/2016 11:08:39 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+10/27/2016 11:08:39 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+10/27/2016 11:08:58 Wifi Connexion=0
+10/27/2016 11:09:06 GetFileZip /usr/src/sodar/dirftp.dat=0
+10/27/2016 11:09:10 GetFileZip /usr/src/sodar/sodcon.ini=0
+10/27/2016 11:09:11 Sodar Connected Type = 2
+10/27/2016 11:09:11 GetFile /usr/src/sodar/gpa26-2.log = -2
+10/27/2016 11:09:22 GetFileZip /usr/src/sodar/20161027.dat=0
+10/27/2016 11:14:01 GetFileZip /usr/src/sodar/20161027.dat=0
+10/27/2016 11:14:28 Pause = 20
+10/27/2016 11:15:10 Start
+10/27/2016 11:15:23 PutFileZip /usr/src/sodar/sodcon.new=0
+10/27/2016 11:15:34 GetFile /usr/src/sodar/gpa26-2.log = -2
+10/27/2016 11:23:33 GetFileZip /usr/src/sodar/20161027.dat=0
+10/27/2016 11:33:25 GetFileZip /usr/src/sodar/20161027.dat=0
+10/27/2016 11:34:44 Pause = 20
+10/27/2016 11:43:38 GetFileZip /usr/src/sodar/20161027.dat=0
+10/27/2016 11:53:53 GetFileZip /usr/src/sodar/20161027.dat=0
+10/27/2016 11:55:30 Pause = 20
+11/08/2016 18:55:42 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/08/2016 18:55:42 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/08/2016 18:55:52 Link Test ...
+11/08/2016 18:55:58 test port 21 ...
+11/08/2016 18:56:00 test port 23 ...
+11/08/2016 18:56:05 Ethernet Connexion=0
+11/08/2016 18:56:10 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/08/2016 18:56:14 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/08/2016 18:56:15 Sodar Connected Type = 1
+11/08/2016 18:56:16 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/08/2016 18:58:58 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 19:06:11 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/08/2016 19:06:11 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/08/2016 19:06:31 Wifi Connexion=0
+11/08/2016 19:06:41 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/08/2016 19:06:46 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/08/2016 19:06:47 Sodar Connected Type = 2
+11/08/2016 19:06:47 GetFile /usr/src/sodar/gpa26-2.log = -2
+11/08/2016 19:06:58 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 19:08:24 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 19:20:16 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/08/2016 19:20:16 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/08/2016 19:20:31 Erreur ping wifi
+11/08/2016 19:20:34 Error Connection : 2,-10
+11/08/2016 19:22:27 Erreur ping wifi
+11/08/2016 19:22:30 Error Connection : 2,-10
+11/08/2016 19:24:03 Erreur ping wifi
+11/08/2016 19:24:06 Error Connection : 2,-10
+11/08/2016 19:24:53 Erreur ping wifi
+11/08/2016 19:24:56 Error Connection : 2,-10
+11/08/2016 19:26:39 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/08/2016 19:26:39 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/08/2016 19:26:56 Erreur ping wifi
+11/08/2016 19:26:59 Error Connection : 2,-10
+11/08/2016 19:27:48 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/08/2016 19:27:48 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/08/2016 19:28:08 Wifi Connexion=0
+11/08/2016 19:28:14 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/08/2016 19:28:19 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/08/2016 19:28:20 Sodar Connected Type = 2
+11/08/2016 19:28:20 GetFile /usr/src/sodar/gpa26-2.log = -2
+11/08/2016 19:28:32 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 19:29:07 View OceanServer
+11/08/2016 19:34:21 Manually deconnected
+11/08/2016 19:44:45 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/08/2016 19:44:45 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/08/2016 19:44:55 Link Test ...
+11/08/2016 19:45:01 test port 21 ...
+11/08/2016 19:45:03 test port 23 ...
+11/08/2016 19:45:09 Ethernet Connexion=0
+11/08/2016 19:45:14 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/08/2016 19:45:18 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/08/2016 19:45:20 Sodar Connected Type = 1
+11/08/2016 19:45:20 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/08/2016 19:45:30 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 19:45:55 Pause = 2000
+11/08/2016 20:07:33 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/08/2016 20:07:33 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/08/2016 20:07:53 Link Test ...
+11/08/2016 20:07:59 test port 21 ...
+11/08/2016 20:08:01 test port 23 ...
+11/08/2016 20:08:08 Ethernet Connexion=0
+11/08/2016 20:08:13 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/08/2016 20:08:18 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/08/2016 20:08:19 Sodar Connected Type = 1
+11/08/2016 20:08:20 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/08/2016 20:08:32 Start
+11/08/2016 20:08:34 PutFileZip /usr/src/sodar/sodcon.new=0
+11/08/2016 20:08:45 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/08/2016 20:09:20 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 20:11:02 View OceanServer
+11/08/2016 20:18:45 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 20:28:39 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 20:38:32 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 20:39:15 Pause = 20
+11/08/2016 20:41:06 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/08/2016 20:41:06 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/08/2016 20:46:07 Link Test ...
+11/08/2016 20:46:12 test port 21 ...
+11/08/2016 20:46:14 test port 23 ...
+11/08/2016 20:46:20 Ethernet Connexion=0
+11/08/2016 20:46:25 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/08/2016 20:46:29 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/08/2016 20:46:30 Sodar Connected Type = 1
+11/08/2016 20:46:31 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/08/2016 20:46:40 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 20:48:43 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 20:48:55 Pause = 20
+11/08/2016 20:50:06 Start
+11/08/2016 20:50:09 PutFileZip /usr/src/sodar/sodcon.new=0
+11/08/2016 20:50:19 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/08/2016 20:58:44 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 21:00:16 Pause = 20
+11/08/2016 21:13:25 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/08/2016 21:13:25 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/08/2016 21:13:26 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/08/2016 21:13:26 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/08/2016 21:13:35 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/08/2016 21:13:35 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/08/2016 21:13:45 Link Test ...
+11/08/2016 21:13:51 test port 21 ...
+11/08/2016 21:13:53 test port 23 ...
+11/08/2016 21:13:59 Ethernet Connexion=0
+11/08/2016 21:14:04 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/08/2016 21:14:09 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/08/2016 21:14:10 Sodar Connected Type = 1
+11/08/2016 21:14:11 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/08/2016 21:14:20 Start
+11/08/2016 21:14:25 PutFileZip /usr/src/sodar/sodcon.new=0
+11/08/2016 21:14:36 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/08/2016 21:15:10 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 21:18:31 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 21:28:24 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 21:32:45 Pause = 20
+11/08/2016 21:35:47 Start
+11/08/2016 21:35:52 PutFileZip /usr/src/sodar/sodcon.new=-4
+11/08/2016 21:35:52 Error SauveFichierIniMain
+11/08/2016 21:48:39 GetFileZip /usr/src/sodar/20161108.dat=0
+11/08/2016 21:50:25 Pause = 20
+11/09/2016 16:24:41 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/09/2016 16:24:41 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/09/2016 16:24:51 Link Test ...
+11/09/2016 16:24:57 test port 21 ...
+11/09/2016 16:24:59 test port 23 ...
+11/09/2016 16:25:05 Ethernet Connexion=0
+11/09/2016 16:25:11 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/09/2016 16:25:15 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/09/2016 16:25:16 Sodar Connected Type = 1
+11/09/2016 16:25:17 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/09/2016 16:25:35 Pause = 2000
+11/09/2016 16:31:01 Start
+11/09/2016 16:31:07 PutFileZip /usr/src/sodar/sodcon.new=0
+11/09/2016 16:31:18 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/09/2016 16:32:24 Start
+11/09/2016 16:32:34 PutFileZip /usr/src/sodar/sodcon.new=0
+11/09/2016 16:32:45 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/09/2016 16:33:18 FTP cd=-1
+11/09/2016 16:33:29 GetPause=-1
+11/09/2016 16:33:41 GetPause=-1
+11/09/2016 16:33:42 Error Timer GetPause : 0
+11/09/2016 16:34:03 GetPause=-1
+11/09/2016 16:34:15 GetPause=-1
+11/09/2016 16:34:27 GetPause=-1
+11/09/2016 16:34:28 Error Timer GetPause : 1
+11/09/2016 16:34:48 GetPause=-1
+11/09/2016 16:35:00 GetPause=-1
+11/09/2016 16:35:28 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/09/2016 16:35:28 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/09/2016 16:35:55 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/09/2016 16:35:55 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/09/2016 18:10:51 Link Test ...
+11/09/2016 18:10:57 test port 21 ...
+11/09/2016 18:10:59 test port 23 ...
+11/09/2016 18:11:04 Ethernet Connexion=0
+11/09/2016 18:11:09 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/09/2016 18:11:14 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/09/2016 18:11:15 Sodar Connected Type = 1
+11/09/2016 18:11:15 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/09/2016 18:11:25 GetFileZip /usr/src/sodar/20161109.dat=0
+11/09/2016 18:12:00 Manually deconnected
+11/09/2016 19:38:36 Link Test ...
+11/09/2016 19:38:41 test port 21 ...
+11/09/2016 19:38:43 test port 23 ...
+11/09/2016 19:38:48 Ethernet Connexion=0
+11/09/2016 19:38:53 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/09/2016 19:38:57 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/09/2016 19:38:59 Sodar Connected Type = 1
+11/09/2016 19:38:59 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/09/2016 19:39:09 GetFileZip /usr/src/sodar/20161109.dat=0
+11/09/2016 20:00:42 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/09/2016 20:00:42 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/09/2016 20:39:42 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/09/2016 20:39:42 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/09/2016 20:39:52 Link Test ...
+11/09/2016 20:39:57 test port 21 ...
+11/09/2016 20:39:59 test port 23 ...
+11/09/2016 20:40:05 Ethernet Connexion=0
+11/09/2016 20:40:10 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/09/2016 20:40:14 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/09/2016 20:40:16 Sodar Connected Type = 1
+11/09/2016 20:40:16 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/09/2016 20:40:26 Pause = 20
+11/09/2016 20:40:29 GetFileZip /usr/src/sodar/20161109.dat=0
+11/10/2016 14:33:59 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/10/2016 14:33:59 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/10/2016 14:34:09 Link Test ...
+11/10/2016 14:34:15 test port 21 ...
+11/10/2016 14:34:17 test port 23 ...
+11/10/2016 14:34:24 Ethernet Connexion=0
+11/10/2016 14:34:29 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/10/2016 14:34:33 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/10/2016 14:34:34 Sodar Connected Type = 1
+11/10/2016 14:34:35 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/10/2016 14:34:48 View OceanServer
+11/10/2016 14:35:42 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/10/2016 14:35:42 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/10/2016 14:35:52 Link Test ...
+11/10/2016 14:35:57 test port 21 ...
+11/10/2016 14:35:59 test port 23 ...
+11/10/2016 14:36:06 Ethernet Connexion=0
+11/10/2016 14:36:11 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/10/2016 14:36:15 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/10/2016 14:36:17 Sodar Connected Type = 1
+11/10/2016 14:36:17 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/10/2016 14:36:30 View OceanServer
+11/10/2016 14:43:18 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/10/2016 14:43:18 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/10/2016 14:43:28 Link Test ...
+11/10/2016 14:43:33 test port 21 ...
+11/10/2016 14:43:35 test port 23 ...
+11/10/2016 14:43:41 Ethernet Connexion=0
+11/10/2016 14:43:46 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/10/2016 14:43:50 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/10/2016 14:43:51 Sodar Connected Type = 1
+11/10/2016 14:43:52 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/10/2016 14:44:01 Pause = 20
+11/10/2016 15:20:57 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/10/2016 15:20:57 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/10/2016 15:21:07 Link Test ...
+11/10/2016 15:21:13 test port 21 ...
+11/10/2016 15:21:15 test port 23 ...
+11/10/2016 15:21:20 Ethernet Connexion=0
+11/10/2016 15:21:26 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/10/2016 15:21:30 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/10/2016 15:21:31 Sodar Connected Type = 1
+11/10/2016 15:21:32 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/10/2016 15:21:41 GetFileZip /usr/src/sodar/20161110.dat=0
+11/10/2016 16:05:46 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/10/2016 16:05:46 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/10/2016 16:05:56 Link Test ...
+11/10/2016 16:06:02 test port 21 ...
+11/10/2016 16:06:04 test port 23 ...
+11/10/2016 16:06:09 Ethernet Connexion=0
+11/10/2016 16:06:15 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/10/2016 16:06:19 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/10/2016 16:06:20 Sodar Connected Type = 1
+11/10/2016 16:06:21 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/10/2016 16:06:30 GetFileZip /usr/src/sodar/20161110.dat=0
+11/10/2016 16:08:33 GetFileZip /usr/src/sodar/20161110.dat=0
+11/10/2016 16:09:08 View OceanServer
+11/10/2016 16:09:28 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/10/2016 16:09:28 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/10/2016 16:09:38 Link Test ...
+11/10/2016 16:09:43 test port 21 ...
+11/10/2016 16:09:45 test port 23 ...
+11/10/2016 16:09:51 Ethernet Connexion=0
+11/10/2016 16:09:56 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/10/2016 16:10:00 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/10/2016 16:10:01 Sodar Connected Type = 1
+11/10/2016 16:10:02 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/10/2016 16:10:11 GetFileZip /usr/src/sodar/20161110.dat=0
+11/10/2016 16:10:22 View OceanServer
+11/10/2016 16:55:23 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/10/2016 16:55:23 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/10/2016 16:55:33 Link Test ...
+11/10/2016 16:55:38 test port 21 ...
+11/10/2016 16:55:41 test port 23 ...
+11/10/2016 16:55:46 Ethernet Connexion=0
+11/10/2016 16:55:52 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/10/2016 16:55:56 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/10/2016 16:55:57 Sodar Connected Type = 1
+11/10/2016 16:55:58 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/10/2016 16:56:07 GetFileZip /usr/src/sodar/20161110.dat=0
+11/10/2016 16:57:44 Apply 0:5
+11/10/2016 16:57:52 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/10/2016 16:57:55 PutFileZip /usr/src/sodar/sodcon.new=0
+11/10/2016 16:58:16 GetFileZip /usr/src/sodar/20161110.dat=0
+11/10/2016 18:16:01 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/10/2016 18:16:01 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/10/2016 18:16:12 Link Test ...
+11/10/2016 18:16:17 test port 21 ...
+11/10/2016 18:16:19 test port 23 ...
+11/10/2016 18:16:25 Ethernet Connexion=0
+11/10/2016 18:16:30 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/10/2016 18:16:34 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/10/2016 18:16:36 Sodar Connected Type = 1
+11/10/2016 18:16:36 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/10/2016 18:16:46 GetFileZip /usr/src/sodar/20161110.dat=0
+11/10/2016 18:18:48 GetFileZip /usr/src/sodar/20161110.dat=0
+11/10/2016 18:21:58 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+11/10/2016 18:21:58 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+11/10/2016 18:22:38 Link Test ...
+11/10/2016 18:22:43 test port 21 ...
+11/10/2016 18:22:45 test port 23 ...
+11/10/2016 18:22:51 Ethernet Connexion=0
+11/10/2016 18:22:56 GetFileZip /usr/src/sodar/dirftp.dat=0
+11/10/2016 18:23:00 GetFileZip /usr/src/sodar/sodcon.ini=0
+11/10/2016 18:23:02 Sodar Connected Type = 1
+11/10/2016 18:23:02 GetFile /usr/src/sodar/gpa26-2.log = -1
+11/10/2016 18:23:12 GetFileZip /usr/src/sodar/20161110.dat=0
+11/10/2016 18:23:19 Pause = 20
+04/06/2017 15:57:53 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/06/2017 15:57:53 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/06/2017 16:01:21 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/06/2017 16:01:21 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/06/2017 16:01:34 Erreur ping wifi
+04/06/2017 16:01:39 Error Connection : 2,-10
+04/06/2017 16:01:41 Exit From SodterGraphic
+04/06/2017 16:45:52 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/06/2017 16:45:52 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/06/2017 16:46:42 Link Test ...
+04/06/2017 16:46:55 Link Error
+04/06/2017 16:46:58 Error Connection : 1,-10
+04/06/2017 16:50:53 Link Test ...
+04/06/2017 16:51:05 Link Error
+04/06/2017 16:51:08 Error Connection : 1,-10
+04/06/2017 17:03:13 Link Test ...
+04/06/2017 17:03:26 Link Error
+04/06/2017 17:03:29 Error Connection : 1,-10
+04/06/2017 17:04:03 Exit From SodterGraphic
+04/06/2017 17:04:09 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/06/2017 17:04:09 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/06/2017 17:04:22 Erreur ping wifi
+04/06/2017 17:04:25 Error Connection : 2,-10
+04/06/2017 17:04:41 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/06/2017 17:04:41 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/06/2017 17:04:51 Link Test ...
+04/06/2017 17:05:04 Link Error
+04/06/2017 17:05:06 Error Connection : 1,-10
+04/06/2017 17:05:31 Link Test ...
+04/06/2017 17:05:36 test port 21 ...
+04/06/2017 17:05:38 test port 23 ...
+04/06/2017 17:05:44 Ethernet Connexion=0
+04/06/2017 17:05:49 GetFileZip /usr/src/sodar/dirftp.dat=0
+04/06/2017 17:05:53 GetFileZip /usr/src/sodar/sodcon.ini=0
+04/06/2017 17:05:54 Sodar Connected Type = 1
+04/06/2017 17:05:55 GetFile /usr/src/sodar/gpa26-2.log = -1
+04/06/2017 17:06:02 Pause = 20
+04/06/2017 17:10:41 Manually deconnected
+04/06/2017 17:10:52 Link Test ...
+04/06/2017 17:10:57 test port 21 ...
+04/06/2017 17:10:59 test port 23 ...
+04/06/2017 17:11:06 Ethernet Connexion=0
+04/06/2017 17:11:11 GetFileZip /usr/src/sodar/dirftp.dat=0
+04/06/2017 17:11:15 GetFileZip /usr/src/sodar/sodcon.ini=0
+04/06/2017 17:11:16 Sodar Connected Type = 1
+04/06/2017 17:11:17 GetFile /usr/src/sodar/gpa26-2.log = -1
+04/06/2017 17:16:35 Start
+04/06/2017 17:16:38 PutFileZip /usr/src/sodar/sodcon.new=0
+04/06/2017 17:16:48 GetFile /usr/src/sodar/gpa26-2.log = 0
+04/06/2017 17:17:21 Start
+04/06/2017 17:17:25 PutFileZip /usr/src/sodar/sodcon.new=0
+04/06/2017 17:17:36 GetFile /usr/src/sodar/gpa26-2.log = 0
+04/06/2017 17:18:16 Start
+04/06/2017 17:18:25 PutFileZip /usr/src/sodar/sodcon.new=0
+04/06/2017 17:18:36 GetFile /usr/src/sodar/gpa26-2.log = 0
+04/06/2017 17:18:37 PLEASE INCREASE HMIN AND CLICK ON START UNDER SODTER GRAPHIC ISYMBEAM= PULSECUR=
+04/06/2017 17:19:11 Start
+04/06/2017 17:19:24 PutFileZip /usr/src/sodar/sodcon.new=-4
+04/06/2017 17:19:24 Error SauveFichierIniMain
+04/06/2017 17:19:54 Pause = 20
+04/06/2017 17:21:31 Start
+04/06/2017 17:21:35 PutFileZip /usr/src/sodar/sodcon.new=0
+04/06/2017 17:21:45 GetFile /usr/src/sodar/gpa26-2.log = -1
+04/06/2017 17:22:08 Pause = 20
+04/06/2017 17:23:46 Disconnected by Exit
+04/06/2017 17:23:47 Exit From SodterGraphic
+04/06/2017 17:26:28 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/06/2017 17:26:28 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/06/2017 17:29:04 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/06/2017 17:29:04 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/06/2017 17:29:14 Link Test ...
+04/06/2017 17:29:19 test port 21 ...
+04/06/2017 17:29:21 test port 23 ...
+04/06/2017 17:29:28 Ethernet Connexion=0
+04/06/2017 17:29:33 GetFileZip /usr/src/sodar/dirftp.dat=0
+04/06/2017 17:29:38 GetFileZip /usr/src/sodar/sodcon.ini=0
+04/06/2017 17:29:39 Sodar Connected Type = 1
+04/06/2017 17:29:39 GetFile /usr/src/sodar/gpa26-2.log = -1
+04/06/2017 17:30:17 Manually deconnected
+04/06/2017 17:32:57 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/06/2017 17:32:57 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/06/2017 17:33:17 Link Test ...
+04/06/2017 17:33:22 test port 21 ...
+04/06/2017 17:33:25 test port 2100 ...
+04/06/2017 17:33:47 Error Connection : 1,-20
+04/06/2017 17:34:07 Link Test ...
+04/06/2017 17:34:12 test port 21 ...
+04/06/2017 17:34:35 test port 23 ...
+04/06/2017 17:34:41 Ethernet Connexion=0
+04/06/2017 17:34:46 GetFileZip /usr/src/sodar/dirftp.dat=0
+04/06/2017 17:34:50 GetFileZip /usr/src/sodar/sodcon.ini=0
+04/06/2017 17:34:51 Sodar Connected Type = 1
+04/06/2017 17:34:52 GetFile /usr/src/sodar/gpa26-2.log = -1
+04/06/2017 17:35:18 Manually deconnected
+04/06/2017 17:35:29 Link Test ...
+04/06/2017 17:35:34 test port 21 ...
+04/06/2017 17:35:36 test port 23 ...
+04/06/2017 17:35:40 Ethernet Connexion=0
+04/06/2017 17:35:46 GetFileZip /usr/src/sodar/dirftp.dat=0
+04/06/2017 17:35:50 GetFileZip /usr/src/sodar/sodcon.ini=0
+04/06/2017 17:35:51 Sodar Connected Type = 1
+04/06/2017 17:35:52 GetFile /usr/src/sodar/gpa26-2.log = -1
+04/06/2017 17:36:29 Pause = 20
+04/06/2017 17:38:54 GetPause=-1
+04/06/2017 17:39:06 GetPause=-1
+04/06/2017 17:39:17 GetPause=-1
+04/06/2017 17:39:19 Error Timer GetPause : 0
+04/06/2017 17:39:39 GetPause=-1
+04/06/2017 17:39:51 GetPause=-1
+04/06/2017 17:40:03 GetPause=-1
+04/06/2017 17:40:04 Error Timer GetPause : 1
+04/06/2017 17:40:25 GetPause=-1
+04/06/2017 17:40:37 GetPause=-1
+04/06/2017 17:40:48 GetPause=-1
+04/06/2017 17:40:50 Error Timer GetPause : 2
+04/06/2017 17:40:50 Disconnect auto
+04/06/2017 17:40:51 Link Test ...
+04/06/2017 17:41:05 Link Error
+04/06/2017 17:41:08 Connect auto = -10
+04/06/2017 17:41:18 Link Test ...
+04/06/2017 17:41:30 Link Error
+04/06/2017 17:41:33 Error Connection : 1,-10
+04/07/2017 13:35:39 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/07/2017 13:35:39 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/07/2017 13:35:50 Link Test ...
+04/07/2017 13:36:01 Link Error
+04/07/2017 13:36:04 Error Connection : 1,-10
+04/07/2017 13:38:40 Link Test ...
+04/07/2017 13:38:45 test port 21 ...
+04/07/2017 13:38:47 test port 23 ...
+04/07/2017 13:38:52 Ethernet Connexion=0
+04/07/2017 13:38:57 GetFileZip /usr/src/sodar/dirftp.dat=0
+04/07/2017 13:39:03 GetFileZip /usr/src/sodar/sodcon.ini=0
+04/07/2017 13:39:04 Sodar Connected Type = 1
+04/07/2017 13:39:05 GetFile /usr/src/sodar/gpa26-2.log = -1
+04/07/2017 13:39:22 Pause = 20
+04/07/2017 13:45:48 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/07/2017 13:45:48 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/07/2017 13:45:59 Link Test ...
+04/07/2017 13:46:04 test port 21 ...
+04/07/2017 13:46:06 test port 23 ...
+04/07/2017 13:46:12 Ethernet Connexion=0
+04/07/2017 13:46:17 GetFileZip /usr/src/sodar/dirftp.dat=0
+04/07/2017 13:46:21 GetFileZip /usr/src/sodar/sodcon.ini=0
+04/07/2017 13:46:23 Sodar Connected Type = 1
+04/07/2017 13:46:23 GetFile /usr/src/sodar/gpa26-2.log = -1
+04/07/2017 13:48:52 Pause = 20
+04/07/2017 14:07:26 Start
+04/07/2017 14:07:38 PutFileZip /usr/src/sodar/sodcon.new=0
+04/07/2017 14:07:49 GetFile /usr/src/sodar/gpa26-2.log = -1
+04/07/2017 14:08:11 Pause = 20
+04/07/2017 14:31:09 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/07/2017 14:31:09 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/07/2017 14:31:28 Wifi Connexion=0
+04/07/2017 14:31:36 GetFileZip /usr/src/sodar/dirftp.dat=0
+04/07/2017 14:31:40 GetFileZip /usr/src/sodar/sodcon.ini=0
+04/07/2017 14:31:41 Sodar Connected Type = 2
+04/07/2017 14:31:42 GetFile /usr/src/sodar/gpa26-2.log = -2
+04/07/2017 14:32:06 View OceanServer
+04/07/2017 14:38:28 Manually deconnected
+04/07/2017 14:38:38 Exit From SodterGraphic
+04/07/2017 14:38:50 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/07/2017 14:38:50 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/07/2017 14:39:07 Erreur ping wifi
+04/07/2017 14:39:10 Error Connection : 2,-10
+04/07/2017 14:39:41 Wifi Connexion=0
+04/07/2017 14:39:46 GetFileZip /usr/src/sodar/dirftp.dat=0
+04/07/2017 14:39:52 GetFileZip /usr/src/sodar/sodcon.ini=0
+04/07/2017 14:39:54 Sodar Connected Type = 2
+04/07/2017 14:39:55 GetFile /usr/src/sodar/gpa26-2.log = -2
+04/07/2017 14:40:25 Pause = 20
+04/07/2017 14:45:11 Start
+04/07/2017 14:45:24 PutFileZip /usr/src/sodar/sodcon.new=0
+04/07/2017 14:45:37 GetFile /usr/src/sodar/gpa26-2.log = -2
+04/07/2017 14:46:25 Pause = 20
+04/07/2017 14:48:11 Start
+04/07/2017 14:48:26 PutFileZip /usr/src/sodar/sodcon.new=0
+04/07/2017 14:48:37 GetFile /usr/src/sodar/gpa26-2.log = -2
+04/07/2017 14:48:49 View OceanServer
+04/07/2017 14:49:19 Manually deconnected
+04/07/2017 14:49:29 Exit From SodterGraphic
+04/07/2017 15:45:42 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/07/2017 15:45:42 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/07/2017 15:46:13 Erreur ping wifi
+04/07/2017 15:46:16 Error Connection : 2,-10
+04/07/2017 15:48:09 Erreur ping wifi
+04/07/2017 15:48:12 Error Connection : 2,-10
+04/07/2017 15:49:01 Wifi Connexion=0
+04/07/2017 15:49:09 GetFileZip /usr/src/sodar/dirftp.dat=0
+04/07/2017 15:49:14 GetFileZip /usr/src/sodar/sodcon.ini=0
+04/07/2017 15:49:15 Sodar Connected Type = 2
+04/07/2017 15:49:15 GetFile /usr/src/sodar/gpa26-2.log = -2
+04/07/2017 15:52:19 Apply 0:5
+04/07/2017 15:52:35 GetFileZip /usr/src/sodar/sodcon.ini=0
+04/07/2017 15:52:55 PutFileZip /usr/src/sodar/sodcon.new=0
+04/07/2017 15:53:21 Manually deconnected
+04/07/2017 15:53:38 Erreur ping wifi
+04/07/2017 15:53:41 Error Connection : 2,-10
+04/07/2017 15:53:58 Erreur ping wifi
+04/07/2017 15:54:01 Error Connection : 2,-10
+04/07/2017 15:54:21 Wifi Connexion=0
+04/07/2017 15:54:27 GetFileZip /usr/src/sodar/dirftp.dat=0
+04/07/2017 15:54:33 GetFileZip /usr/src/sodar/sodcon.ini=0
+04/07/2017 15:54:35 Sodar Connected Type = 2
+04/07/2017 15:54:35 GetFile /usr/src/sodar/gpa26-2.log = -2
+04/07/2017 15:56:50 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 15:59:52 GetPause=-1
+04/07/2017 16:02:10 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 16:06:21 Pause = 20
+04/07/2017 16:07:24 Start
+04/07/2017 16:07:45 PutFileZip /usr/src/sodar/sodcon.new=0
+04/07/2017 16:07:56 GetFile /usr/src/sodar/gpa26-2.log = -2
+04/07/2017 16:08:33 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 16:12:01 Erreur GetFileZip = -19 : /usr/src/sodar/20170407.dat : 24ccc7086f4f140f3c937ce47d087314 : df763512b92993b57299406fd0dcaf71
+04/07/2017 16:12:01 Error: GetFileZip 19:20170407.dat st1=24ccc7086f4f140f3c937ce47d087314 st3=df763512b92993b57299406fd0dcaf71
+04/07/2017 16:12:01 GetFileZip /usr/src/sodar/20170407.dat=-19
+04/07/2017 16:12:49 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 16:16:51 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 16:22:09 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 16:26:48 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 16:32:11 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 16:36:52 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 16:38:23 GetPause=-2
+04/07/2017 16:38:25 GetPause=-2
+04/07/2017 16:38:26 GetPause=-2
+04/07/2017 16:38:28 Error Timer GetPause : 0
+04/07/2017 16:41:48 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 16:47:07 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 16:51:48 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 16:55:13 Manually deconnected
+04/07/2017 18:14:24 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+04/07/2017 18:14:24 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+04/07/2017 18:14:54 Wifi Connexion=0
+04/07/2017 18:15:01 GetFileZip /usr/src/sodar/dirftp.dat=0
+04/07/2017 18:15:05 GetFileZip /usr/src/sodar/sodcon.ini=0
+04/07/2017 18:15:07 Sodar Connected Type = 2
+04/07/2017 18:15:07 GetFile /usr/src/sodar/gpa26-2.log = -2
+04/07/2017 18:15:29 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 18:17:02 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 18:17:12 Pause = 20
+04/07/2017 18:17:19 GetFileZip /usr/src/sodar/20170407.dat=0
+04/07/2017 18:18:30 Manually deconnected
+05/02/2017 12:20:02 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+05/02/2017 12:20:02 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+05/02/2017 12:20:13 Link Test ...
+05/02/2017 12:20:18 test port 21 ...
+05/02/2017 12:20:21 test port 23 ...
+05/02/2017 12:20:28 Ethernet Connexion=0
+05/02/2017 12:20:33 GetFileZip /usr/src/sodar/dirftp.dat=0
+05/02/2017 12:20:37 GetFileZip /usr/src/sodar/sodcon.ini=0
+05/02/2017 12:20:38 Sodar Connected Type = 1
+05/02/2017 12:20:39 GetFile /usr/src/sodar/gpa26-2.log = -1
+05/02/2017 12:20:50 Pause = 20
+05/02/2017 12:22:26 View OceanServer
+05/02/2017 12:28:56 Manually deconnected
+05/02/2017 12:32:49 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+05/02/2017 12:32:49 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+05/02/2017 12:33:09 Link Test ...
+05/02/2017 12:33:15 test port 21 ...
+05/02/2017 12:33:17 test port 23 ...
+05/02/2017 12:33:22 Ethernet Connexion=0
+05/02/2017 12:33:27 GetFileZip /usr/src/sodar/dirftp.dat=0
+05/02/2017 12:33:31 GetFileZip /usr/src/sodar/sodcon.ini=0
+05/02/2017 12:33:33 Sodar Connected Type = 1
+05/02/2017 12:33:33 GetFile /usr/src/sodar/gpa26-2.log = -1
+05/02/2017 12:34:24 Pause = 20
+05/02/2017 12:43:02 Start
+05/02/2017 12:43:11 PutFileZip /usr/src/sodar/sodcon.new=0
+05/02/2017 12:43:22 GetFile /usr/src/sodar/gpa26-2.log = -1
+05/02/2017 12:43:47 Manually deconnected
+05/02/2017 12:44:30 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+05/02/2017 12:44:30 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+05/02/2017 12:45:10 Erreur ping wifi
+05/02/2017 12:45:13 Error Connection : 2,-10
+05/02/2017 12:45:33 Erreur ping wifi
+05/02/2017 12:45:36 Error Connection : 2,-10
+05/02/2017 12:46:33 Erreur ping wifi
+05/02/2017 12:46:36 Error Connection : 2,-10
+05/02/2017 12:46:55 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+05/02/2017 12:46:55 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+05/02/2017 12:47:08 Erreur ping wifi
+05/02/2017 12:47:11 Error Connection : 2,-10
+05/02/2017 12:47:38 Erreur ping wifi
+05/02/2017 12:47:41 Error Connection : 2,-10
+05/02/2017 12:48:08 Erreur ping wifi
+05/02/2017 12:48:11 Error Connection : 2,-10
+05/02/2017 14:31:03 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+05/02/2017 14:31:03 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+05/02/2017 14:31:23 Link Test ...
+05/02/2017 14:31:30 test port 21 ...
+05/02/2017 14:31:32 test port 23 ...
+05/02/2017 14:31:37 Ethernet Connexion=0
+05/02/2017 14:31:42 GetFileZip /usr/src/sodar/dirftp.dat=0
+05/02/2017 14:31:46 GetFileZip /usr/src/sodar/sodcon.ini=0
+05/02/2017 14:31:47 Sodar Connected Type = 1
+05/02/2017 14:31:48 GetFile /usr/src/sodar/gpa26-2.log = -1
+05/02/2017 14:31:58 GetFileZip /usr/src/sodar/20170502.dat=0
+05/02/2017 14:32:30 Pause = 20
+05/02/2017 14:33:16 Start
+05/02/2017 14:33:22 PutFileZip /usr/src/sodar/sodcon.new=0
+05/02/2017 14:33:32 GetFile /usr/src/sodar/gpa26-2.log = -1
+05/02/2017 14:33:48 Manually deconnected
+05/02/2017 16:50:42 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+05/02/2017 16:50:42 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+05/02/2017 16:50:56 Erreur ping wifi
+05/02/2017 16:50:59 Error Connection : 2,-10
+05/02/2017 16:51:25 Erreur ping wifi
+05/02/2017 16:51:28 Error Connection : 2,-10
+05/02/2017 16:51:58 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+05/02/2017 16:51:58 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+05/02/2017 16:52:49 Link Test ...
+05/02/2017 16:52:54 test port 21 ...
+05/02/2017 16:52:56 test port 23 ...
+05/02/2017 16:53:01 Ethernet Connexion=0
+05/02/2017 16:53:06 GetFileZip /usr/src/sodar/dirftp.dat=0
+05/02/2017 16:53:10 GetFileZip /usr/src/sodar/sodcon.ini=0
+05/02/2017 16:53:12 Sodar Connected Type = 1
+05/02/2017 16:53:12 GetFile /usr/src/sodar/gpa26-2.log = -1
+05/02/2017 16:53:18 Pause = 20
+05/02/2017 16:53:25 GetFileZip /usr/src/sodar/20170502.dat=0
+05/02/2017 16:54:24 Manually deconnected
+05/02/2017 16:59:26 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+05/02/2017 16:59:26 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+05/02/2017 16:59:57 Link Test ...
+05/02/2017 17:00:02 test port 21 ...
+05/02/2017 17:00:05 test port 2100 ...
+05/02/2017 17:00:28 Error Connection : 1,-20
+05/02/2017 17:01:17 Link Test ...
+05/02/2017 17:01:22 test port 21 ...
+05/02/2017 17:01:45 test port 23 ...
+05/02/2017 17:01:50 Ethernet Connexion=0
+05/02/2017 17:01:56 GetFileZip /usr/src/sodar/dirftp.dat=0
+05/02/2017 17:02:00 GetFileZip /usr/src/sodar/sodcon.ini=0
+05/02/2017 17:02:01 Sodar Connected Type = 1
+05/02/2017 17:02:02 GetFile /usr/src/sodar/gpa26-2.log = -1
+05/02/2017 17:02:14 Pause = 20
+05/02/2017 17:02:15 GetFileZip /usr/src/sodar/20170502.dat=0
+05/02/2017 17:02:38 View OceanServer
+05/02/2017 17:06:11 Start
+05/02/2017 17:06:17 PutFileZip /usr/src/sodar/sodcon.new=0
+05/02/2017 17:06:28 GetFile /usr/src/sodar/gpa26-2.log = -1
+05/02/2017 17:06:43 Manually deconnected
+05/02/2017 18:09:11 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+05/02/2017 18:09:11 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+05/02/2017 18:09:21 Link Test ...
+05/02/2017 18:09:27 test port 21 ...
+05/02/2017 18:09:29 test port 23 ...
+05/02/2017 18:09:34 Ethernet Connexion=0
+05/02/2017 18:09:40 GetFileZip /usr/src/sodar/dirftp.dat=0
+05/02/2017 18:09:44 GetFileZip /usr/src/sodar/sodcon.ini=0
+05/02/2017 18:09:45 Sodar Connected Type = 1
+05/02/2017 18:09:46 GetFile /usr/src/sodar/gpa26-2.log = -1
+05/02/2017 18:09:55 Pause = 20
+05/02/2017 18:10:00 GetFileZip /usr/src/sodar/20170502.dat=0
+05/02/2017 18:11:11 GetFileZip /usr/src/sodar/20170502.dat=0
+05/02/2017 18:14:15 Manually deconnected
+05/17/2017 08:14:57 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+05/17/2017 08:14:57 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+05/17/2017 08:16:27 Link Test ...
+05/17/2017 08:16:33 test port 21 ...
+05/17/2017 08:16:35 test port 23 ...
+05/17/2017 08:16:41 Ethernet Connexion=0
+05/17/2017 08:16:46 GetFileZip /usr/src/sodar/dirftp.dat=0
+05/17/2017 08:16:50 GetFileZip /usr/src/sodar/sodcon.ini=0
+05/17/2017 08:16:52 Sodar Connected Type = 1
+05/17/2017 08:16:52 GetFile /usr/src/sodar/gpa26-2.log = -1
+05/17/2017 08:17:11 Pause = 20
+05/17/2017 08:20:19 Start
+05/17/2017 08:20:27 PutFileZip /usr/src/sodar/sodcon.new=0
+05/17/2017 08:20:38 GetFile /usr/src/sodar/gpa26-2.log = -1
+05/17/2017 08:20:51 View OceanServer
+05/17/2017 08:21:02 Pause = 20
+05/17/2017 08:22:02 View OceanServer
+05/17/2017 08:29:13 Start
+05/17/2017 08:29:25 PutFileZip /usr/src/sodar/sodcon.new=0
+05/17/2017 08:29:35 GetFile /usr/src/sodar/gpa26-2.log = -1
+05/17/2017 08:30:01 View OceanServer
+05/17/2017 08:30:20 Manually deconnected
+05/17/2017 08:30:50 Exit From SodterGraphic
+05/18/2017 15:16:01 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+05/18/2017 15:16:01 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+05/18/2017 15:16:11 Link Test ...
+05/18/2017 15:16:17 test port 21 ...
+05/18/2017 15:16:20 test port 23 ...
+05/18/2017 15:16:25 Ethernet Connexion=0
+05/18/2017 15:16:30 GetFileZip /usr/src/sodar/dirftp.dat=0
+05/18/2017 15:16:35 GetFileZip /usr/src/sodar/sodcon.ini=0
+05/18/2017 15:16:36 Sodar Connected Type = 1
+05/18/2017 15:16:37 GetFile /usr/src/sodar/gpa26-2.log = -1
+05/18/2017 15:16:42 Pause = 20
+05/18/2017 15:16:48 GetFileZip /usr/src/sodar/20170518.dat=0
+05/18/2017 15:17:53 GetFileZip /usr/src/sodar/20170517.dat=0
+05/18/2017 15:18:00 GetFileZip /usr/src/sodar/20170518.dat=0
+05/18/2017 15:19:26 Manually deconnected
+05/18/2017 15:19:36 Exit From SodterGraphic
+09/04/2017 16:37:55 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+09/04/2017 16:37:55 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/04/2017 16:38:06 Link Test ...
+09/04/2017 16:38:11 test port 21 ...
+09/04/2017 16:38:13 test port 23 ...
+09/04/2017 16:38:19 Ethernet Connexion=0
+09/04/2017 16:38:24 GetFileZip /usr/src/sodar/dirftp.dat=0
+09/04/2017 16:38:28 GetFileZip /usr/src/sodar/sodcon.ini=0
+09/04/2017 16:38:29 Sodar Connected Type = 1
+09/04/2017 16:38:30 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/04/2017 16:38:37 Pause = 20
+09/04/2017 16:39:36 View OceanServer
+09/04/2017 16:51:02 Start
+09/04/2017 16:51:07 PutFileZip /usr/src/sodar/sodcon.new=0
+09/04/2017 16:51:18 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/04/2017 16:51:44 Manually deconnected
+09/04/2017 16:51:54 Exit From SodterGraphic
+09/05/2017 15:56:54 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+09/05/2017 15:56:54 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/05/2017 15:57:14 Link Test ...
+09/05/2017 15:57:20 test port 21 ...
+09/05/2017 15:57:22 test port 23 ...
+09/05/2017 15:57:27 Ethernet Connexion=0
+09/05/2017 15:57:32 GetFileZip /usr/src/sodar/dirftp.dat=0
+09/05/2017 15:57:37 GetFileZip /usr/src/sodar/sodcon.ini=0
+09/05/2017 15:57:38 Sodar Connected Type = 1
+09/05/2017 15:57:38 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/05/2017 15:57:48 GetFileZip /usr/src/sodar/20170905.dat=0
+09/05/2017 15:58:03 GetFileZip /usr/src/sodar/20170904.dat=0
+09/05/2017 15:58:53 GetFileZip /usr/src/sodar/20170905.dat=0
+09/05/2017 15:59:19 Manually deconnected
+09/05/2017 15:59:29 Exit From SodterGraphic
+09/07/2017 14:14:50 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+09/07/2017 14:14:50 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/07/2017 14:15:10 Link Test ...
+09/07/2017 14:15:16 test port 21 ...
+09/07/2017 14:15:18 test port 23 ...
+09/07/2017 14:15:24 Ethernet Connexion=0
+09/07/2017 14:15:29 GetFileZip /usr/src/sodar/dirftp.dat=0
+09/07/2017 14:15:33 GetFileZip /usr/src/sodar/sodcon.ini=0
+09/07/2017 14:15:35 Sodar Connected Type = 1
+09/07/2017 14:15:35 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/07/2017 14:15:45 GetFileZip /usr/src/sodar/20170907.dat=0
+09/07/2017 14:16:04 GetFileZip /usr/src/sodar/20170907.dat=0
+09/07/2017 14:16:23 GetFileZip /usr/src/sodar/20170906.dat=0
+09/07/2017 14:17:01 GetFileZip /usr/src/sodar/20170905.dat=0
+09/07/2017 14:17:45 Pause = 20
+09/07/2017 14:18:54 Start
+09/07/2017 14:18:58 PutFileZip /usr/src/sodar/sodcon.new=-3
+09/07/2017 14:18:58 Error SauveFichierIniMain
+09/07/2017 14:19:37 Manually deconnected
+09/07/2017 14:20:27 Exit From SodterGraphic
+09/08/2017 15:49:21 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+09/08/2017 15:49:21 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/08/2017 15:49:31 Link Test ...
+09/08/2017 15:49:37 test port 21 ...
+09/08/2017 15:49:40 test port 23 ...
+09/08/2017 15:49:46 Ethernet Connexion=0
+09/08/2017 15:49:51 GetFileZip /usr/src/sodar/dirftp.dat=0
+09/08/2017 15:49:56 GetFileZip /usr/src/sodar/sodcon.ini=0
+09/08/2017 15:49:57 Sodar Connected Type = 1
+09/08/2017 15:49:58 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/08/2017 15:50:08 GetFileZip /usr/src/sodar/20170908.dat=0
+09/08/2017 15:50:33 GetFileZip /usr/src/sodar/20170907.dat=0
+09/08/2017 15:51:22 GetFileZip /usr/src/sodar/20170908.dat=0
+09/08/2017 15:51:49 Manually deconnected
+09/08/2017 15:52:09 Exit From SodterGraphic
+09/11/2017 16:31:31 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+09/11/2017 16:31:31 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/11/2017 16:32:02 Link Test ...
+09/11/2017 16:32:08 test port 21 ...
+09/11/2017 16:32:10 test port 23 ...
+09/11/2017 16:32:16 Ethernet Connexion=0
+09/11/2017 16:32:21 GetFileZip /usr/src/sodar/dirftp.dat=0
+09/11/2017 16:32:25 GetFileZip /usr/src/sodar/sodcon.ini=0
+09/11/2017 16:32:27 Sodar Connected Type = 1
+09/11/2017 16:32:27 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/11/2017 16:32:37 GetFileZip /usr/src/sodar/20170911.dat=0
+09/11/2017 16:32:53 GetFileZip /usr/src/sodar/20170910.dat=0
+09/11/2017 16:33:13 GetFileZip /usr/src/sodar/20170909.dat=0
+09/11/2017 16:33:35 GetFileZip /usr/src/sodar/20170908.dat=0
+09/11/2017 16:34:00 GetFileZip /usr/src/sodar/20170911.dat=0
+09/11/2017 16:35:20 Pause = 20
+09/11/2017 16:36:20 Manually deconnected
+09/11/2017 16:36:30 Exit From SodterGraphic
+06/04/2018 11:31:11 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/04/2018 11:31:11 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/04/2018 11:31:22 Link Test ...
+06/04/2018 11:31:25 Link Error
+06/04/2018 11:31:28 Error Connection : 1,-10
+06/04/2018 14:39:18 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/04/2018 14:39:18 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/04/2018 14:39:28 Link Test ...
+06/04/2018 14:39:33 test port 21 ...
+06/04/2018 14:39:36 test port 23 ...
+06/04/2018 14:39:41 Ethernet Connexion=0
+06/04/2018 14:39:46 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/04/2018 14:39:50 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/04/2018 14:39:51 Sodar Connected Type = 1
+06/04/2018 14:39:52 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/04/2018 14:41:24 Manually deconnected
+06/04/2018 14:42:34 Link Test ...
+06/04/2018 14:42:39 test port 21 ...
+06/04/2018 14:42:41 test port 23 ...
+06/04/2018 14:42:47 Ethernet Connexion=0
+06/04/2018 14:42:52 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/04/2018 14:42:56 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/04/2018 14:42:57 Sodar Connected Type = 1
+06/04/2018 14:42:58 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/04/2018 14:43:11 Disconnected by Exit
+06/04/2018 14:43:12 Exit From SodterGraphic
+06/04/2018 14:50:49 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/04/2018 14:50:49 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/04/2018 14:51:09 Link Test ...
+06/04/2018 14:51:15 test port 21 ...
+06/04/2018 14:51:17 test port 23 ...
+06/04/2018 14:51:22 Ethernet Connexion=0
+06/04/2018 14:51:27 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/04/2018 14:51:31 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/04/2018 14:51:32 Sodar Connected Type = 1
+06/04/2018 14:51:33 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/04/2018 14:51:42 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 14:54:22 Pause = 20
+06/04/2018 14:58:51 View OceanServer
+06/04/2018 15:00:29 Manually deconnected
+06/04/2018 15:00:39 Exit From SodterGraphic
+06/04/2018 15:11:55 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/04/2018 15:11:55 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/04/2018 15:12:15 Link Test ...
+06/04/2018 15:12:20 test port 21 ...
+06/04/2018 15:12:22 test port 23 ...
+06/04/2018 15:12:29 Ethernet Connexion=0
+06/04/2018 15:12:34 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/04/2018 15:12:39 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/04/2018 15:12:40 Sodar Connected Type = 1
+06/04/2018 15:12:40 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/04/2018 15:13:55 View OceanServer
+06/04/2018 15:15:18 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 15:15:26 Pause = 20
+06/04/2018 15:15:49 View OceanServer
+06/04/2018 15:40:59 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 15:42:18 Pause = 20
+06/04/2018 15:43:20 View OceanServer
+06/04/2018 15:56:20 Start
+06/04/2018 15:56:25 PutFileZip /usr/src/sodar/sodcon.new=0
+06/04/2018 15:56:36 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/04/2018 16:05:40 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 16:11:00 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 16:16:20 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 16:20:59 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 16:26:19 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 16:30:58 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 16:35:38 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 16:40:56 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 16:45:35 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 16:50:54 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 16:56:13 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 17:00:52 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 17:06:11 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 17:10:50 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 17:16:09 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 17:20:48 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 17:26:07 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 17:30:46 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 17:36:05 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 17:40:44 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 17:46:03 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 17:50:42 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 17:54:09 Manually deconnected
+06/04/2018 17:54:39 Exit From SodterGraphic
+06/04/2018 17:54:47 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/04/2018 17:54:47 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/04/2018 17:55:36 Erreur ping wifi
+06/04/2018 17:55:39 Error Connection : 2,-10
+06/04/2018 17:55:54 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/04/2018 17:55:54 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/04/2018 17:56:04 Link Test ...
+06/04/2018 17:56:09 test port 21 ...
+06/04/2018 17:56:11 test port 23 ...
+06/04/2018 17:56:17 Ethernet Connexion=0
+06/04/2018 17:56:22 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/04/2018 17:56:26 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/04/2018 17:56:27 Sodar Connected Type = 1
+06/04/2018 17:56:28 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/04/2018 17:56:37 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 18:00:38 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 18:05:57 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 18:11:16 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 18:14:03 Manually deconnected
+06/04/2018 18:14:13 Link Test ...
+06/04/2018 18:14:18 test port 21 ...
+06/04/2018 18:14:20 test port 23 ...
+06/04/2018 18:14:26 Ethernet Connexion=0
+06/04/2018 18:14:31 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/04/2018 18:14:35 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/04/2018 18:14:36 Sodar Connected Type = 1
+06/04/2018 18:14:37 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/04/2018 18:14:50 Manually deconnected
+06/04/2018 18:15:50 Link Test ...
+06/04/2018 18:15:55 test port 21 ...
+06/04/2018 18:15:57 test port 23 ...
+06/04/2018 18:16:02 Ethernet Connexion=0
+06/04/2018 18:16:07 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/04/2018 18:16:11 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/04/2018 18:16:13 Sodar Connected Type = 1
+06/04/2018 18:16:13 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/04/2018 18:16:21 Pause = 20
+06/04/2018 18:16:41 GetFileZip /usr/src/sodar/20180604.dat=0
+06/04/2018 18:17:28 Disconnected by Exit
+06/04/2018 18:17:29 Exit From SodterGraphic
+06/04/2018 18:19:39 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/04/2018 18:19:39 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/04/2018 18:19:49 Link Test ...
+06/04/2018 18:19:54 test port 21 ...
+06/04/2018 18:19:56 test port 23 ...
+06/04/2018 18:20:03 Ethernet Connexion=0
+06/04/2018 18:20:08 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/04/2018 18:20:12 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/04/2018 18:20:14 Sodar Connected Type = 1
+06/04/2018 18:20:14 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/04/2018 18:23:12 Manually deconnected
+06/04/2018 18:23:22 Link Test ...
+06/04/2018 18:23:27 test port 21 ...
+06/04/2018 18:23:29 test port 23 ...
+06/04/2018 18:23:36 Ethernet Connexion=0
+06/04/2018 18:23:41 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/04/2018 18:23:45 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/04/2018 18:23:47 Sodar Connected Type = 1
+06/04/2018 18:23:47 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/04/2018 18:24:56 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/04/2018 18:24:56 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/04/2018 18:25:27 Link Test ...
+06/04/2018 18:25:32 test port 21 ...
+06/04/2018 18:25:34 test port 23 ...
+06/04/2018 18:25:41 Ethernet Connexion=0
+06/04/2018 18:25:46 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/04/2018 18:25:50 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/04/2018 18:25:51 Sodar Connected Type = 1
+06/04/2018 18:25:52 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/05/2018 08:54:49 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/05/2018 08:54:49 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/05/2018 08:57:22 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/05/2018 08:57:22 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/05/2018 08:57:32 Link Test ...
+06/05/2018 08:57:38 test port 21 ...
+06/05/2018 08:57:40 test port 23 ...
+06/05/2018 08:57:46 Ethernet Connexion=0
+06/05/2018 08:57:52 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/05/2018 08:57:56 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/05/2018 08:57:57 Sodar Connected Type = 1
+06/05/2018 08:57:58 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/05/2018 08:58:07 GetFileZip /usr/src/sodar/20180605.dat=0
+06/05/2018 09:00:16 View OceanServer
+06/05/2018 09:01:09 GetFileZip /usr/src/sodar/20180605.dat=0
+06/05/2018 09:01:31 Pause = 20
+06/05/2018 09:03:44 View OceanServer
+06/05/2018 09:04:52 Start
+06/05/2018 09:05:02 PutFileZip /usr/src/sodar/sodcon.new=0
+06/05/2018 09:05:12 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/05/2018 09:06:58 Manually deconnected
+06/05/2018 20:43:03 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/05/2018 20:43:03 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/05/2018 20:43:13 Link Test ...
+06/05/2018 20:43:18 test port 21 ...
+06/05/2018 20:43:20 test port 23 ...
+06/05/2018 20:43:26 Ethernet Connexion=0
+06/05/2018 20:43:31 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/05/2018 20:43:35 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/05/2018 20:43:36 Sodar Connected Type = 1
+06/05/2018 20:43:37 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/05/2018 20:43:48 GetFileZip /usr/src/sodar/20180605.dat=0
+06/05/2018 20:44:37 Pause = 20
+06/05/2018 20:51:07 Disconnected by Exit
+06/05/2018 20:51:08 Exit From SodterGraphic
+03/12/2019 08:35:01 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+03/12/2019 08:35:01 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+03/12/2019 08:40:36 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+03/12/2019 08:40:36 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+03/12/2019 08:46:47 Link Test ...
+03/12/2019 08:46:59 Link Error
+03/12/2019 08:47:02 Error Connection : 1,-10
+03/12/2019 08:47:37 Link Test ...
+03/12/2019 08:47:42 test port 21 ...
+03/12/2019 08:47:45 test port 2100 ...
+03/12/2019 08:48:08 Error Connection : 1,-20
+03/12/2019 08:49:10 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+03/12/2019 08:49:10 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+03/12/2019 08:49:31 Exit From SodterGraphic
+03/12/2019 08:52:32 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+03/12/2019 08:52:32 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+03/12/2019 08:52:42 Link Test ...
+03/12/2019 08:52:47 test port 21 ...
+03/12/2019 08:52:49 test port 23 ...
+03/12/2019 08:52:55 Ethernet Connexion=0
+03/12/2019 08:53:00 GetFileZip /usr/src/sodar/dirftp.dat=0
+03/12/2019 08:53:04 GetFileZip /usr/src/sodar/sodcon.ini=0
+03/12/2019 08:53:05 Sodar Connected Type = 1
+03/12/2019 08:53:06 GetFile /usr/src/sodar/gpa26-2.log = -1
+03/12/2019 08:53:45 View OceanServer
+03/12/2019 09:15:54 GetFileZip /usr/src/sodar/20190312.dat=0
+03/12/2019 09:20:34 GetFileZip /usr/src/sodar/20190312.dat=0
+03/12/2019 09:25:52 GetFileZip /usr/src/sodar/20190312.dat=0
+03/12/2019 09:31:11 GetFileZip /usr/src/sodar/20190312.dat=0
+03/12/2019 09:35:50 GetFileZip /usr/src/sodar/20190312.dat=0
+03/12/2019 09:41:11 GetFileZip /usr/src/sodar/20190312.dat=0
+03/12/2019 09:45:50 GetFileZip /usr/src/sodar/20190312.dat=0
+03/12/2019 09:50:29 GetFileZip /usr/src/sodar/20190312.dat=0
+03/12/2019 09:52:48 GetPause=-1
+03/12/2019 09:53:00 GetPause=-1
+03/12/2019 09:53:12 GetPause=-1
+03/12/2019 09:53:13 Error Timer GetPause : 0
+03/12/2019 09:53:34 GetPause=-1
+03/12/2019 09:53:46 GetPause=-1
+03/12/2019 09:53:57 GetPause=-1
+03/12/2019 09:53:59 Error Timer GetPause : 1
+03/12/2019 09:54:19 GetPause=-1
+03/12/2019 09:54:31 GetPause=-1
+03/12/2019 09:54:43 GetPause=-1
+03/12/2019 09:54:44 Error Timer GetPause : 2
+03/12/2019 09:54:44 Disconnect auto
+03/12/2019 09:54:45 Link Test ...
+03/12/2019 09:55:00 Link Error
+03/12/2019 09:55:02 Connect auto = -10
+03/12/2019 16:02:16 Link Test ...
+03/12/2019 16:02:22 test port 21 ...
+03/12/2019 16:02:24 test port 23 ...
+03/12/2019 16:02:29 Ethernet Connexion=0
+03/12/2019 16:02:35 GetFileZip /usr/src/sodar/dirftp.dat=0
+03/12/2019 16:02:39 GetFileZip /usr/src/sodar/sodcon.ini=0
+03/12/2019 16:02:40 Sodar Connected Type = 1
+03/12/2019 16:02:41 GetFile /usr/src/sodar/gpa26-2.log = -1
+03/12/2019 16:03:06 Disconnected by Exit
+03/12/2019 16:03:07 Exit From SodterGraphic
+03/12/2019 16:04:34 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+03/12/2019 16:04:34 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+03/12/2019 16:04:44 Link Test ...
+03/12/2019 16:04:49 test port 21 ...
+03/12/2019 16:04:51 test port 23 ...
+03/12/2019 16:04:56 Ethernet Connexion=0
+03/12/2019 16:05:02 GetFileZip /usr/src/sodar/dirftp.dat=0
+03/12/2019 16:05:06 GetFileZip /usr/src/sodar/sodcon.ini=0
+03/12/2019 16:05:07 Sodar Connected Type = 1
+03/12/2019 16:05:08 GetFile /usr/src/sodar/gpa26-2.log = -1
+03/12/2019 16:05:17 GetFileZip /usr/src/sodar/20190312.dat=0
+03/12/2019 16:05:27 Pause = 20
+03/12/2019 16:09:09 Disconnected by Exit
+03/12/2019 16:09:10 Exit From SodterGraphic
+06/26/2020 20:39:28 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/26/2020 20:39:28 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/26/2020 20:39:38 Link Test ...
+06/26/2020 20:39:41 Link Error
+06/26/2020 20:39:44 Error Connection : 1,-10
+06/26/2020 20:40:39 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/26/2020 20:40:39 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/26/2020 20:44:10 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/26/2020 20:44:10 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/26/2020 20:44:20 Link Test ...
+06/26/2020 20:44:32 Link Error
+06/26/2020 20:44:35 Error Connection : 1,-10
+06/26/2020 20:46:05 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/26/2020 20:46:05 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/26/2020 21:19:35 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/26/2020 21:19:35 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/26/2020 21:19:45 Link Test ...
+06/26/2020 21:19:51 test port 21 ...
+06/26/2020 21:19:53 test port 23 ...
+06/26/2020 21:19:59 Ethernet Connexion=0
+06/26/2020 21:20:04 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/26/2020 21:20:09 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/26/2020 21:20:10 Sodar Connected Type = 1
+06/26/2020 21:20:10 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/26/2020 21:20:20 Erreur GetFileZip = -19 : /usr/src/sodar/20001111.dat : 3215f66a4b17a4fe113a1c40a440bb28 : 2cdff3cdbd6d11da870f2d32adc18ac2
+06/26/2020 21:20:20 Error: GetFileZip 19:20001111.dat st1=3215f66a4b17a4fe113a1c40a440bb28 st3=2cdff3cdbd6d11da870f2d32adc18ac2
+06/26/2020 21:20:20 GetFileZip /usr/src/sodar/20001111.dat=-19
+06/26/2020 21:20:31 View OceanServer
+06/26/2020 21:25:23 GetFileZip /usr/src/sodar/20001111.dat=0
+06/26/2020 21:26:07 GetFileZip /usr/src/sodar/20001111.dat=0
+06/26/2020 21:30:47 GetFileZip /usr/src/sodar/20001111.dat=0
+06/26/2020 21:32:39 Pause = 20
+06/26/2020 21:33:16 Manually deconnected
+06/26/2020 21:33:26 Link Test ...
+06/26/2020 21:33:32 test port 21 ...
+06/26/2020 21:33:34 test port 23 ...
+06/26/2020 21:33:40 Ethernet Connexion=0
+06/26/2020 21:33:46 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/26/2020 21:33:50 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/26/2020 21:33:51 Sodar Connected Type = 1
+06/26/2020 21:33:52 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 06:10:57 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/27/2020 06:10:57 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/27/2020 06:21:29 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/27/2020 06:21:29 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/27/2020 06:21:39 Link Test ...
+06/27/2020 06:21:52 Link Error
+06/27/2020 06:21:55 Error Connection : 1,-10
+06/27/2020 06:28:00 Link Test ...
+06/27/2020 06:28:05 test port 21 ...
+06/27/2020 06:28:07 test port 23 ...
+06/27/2020 06:28:14 Ethernet Connexion=0
+06/27/2020 06:28:19 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/27/2020 06:28:24 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/27/2020 06:28:25 Sodar Connected Type = 1
+06/27/2020 06:28:25 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 06:28:35 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 06:28:50 Pause = 20
+06/27/2020 06:30:38 Start
+06/27/2020 06:30:50 PutFileZip /usr/src/sodar/sodcon.new=0
+06/27/2020 06:31:01 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 06:32:20 Start
+06/27/2020 06:32:29 PutFileZip /usr/src/sodar/sodcon.new=0
+06/27/2020 06:32:40 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 06:33:42 View OceanServer
+06/27/2020 06:50:05 Start
+06/27/2020 06:50:08 PutFileZip /usr/src/sodar/sodcon.new=0
+06/27/2020 06:50:19 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 06:51:21 Manually deconnected
+06/27/2020 06:51:31 Link Test ...
+06/27/2020 06:51:36 test port 21 ...
+06/27/2020 06:51:38 test port 23 ...
+06/27/2020 06:51:45 Ethernet Connexion=0
+06/27/2020 06:51:50 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/27/2020 06:51:54 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/27/2020 06:51:56 Sodar Connected Type = 1
+06/27/2020 06:51:56 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 06:52:07 Start
+06/27/2020 06:52:11 PutFileZip /usr/src/sodar/sodcon.new=0
+06/27/2020 06:52:22 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 06:53:22 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/27/2020 06:53:22 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/27/2020 06:53:32 Link Test ...
+06/27/2020 06:53:37 test port 21 ...
+06/27/2020 06:53:39 test port 23 ...
+06/27/2020 06:53:46 Ethernet Connexion=0
+06/27/2020 06:53:51 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/27/2020 06:53:56 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/27/2020 06:53:58 Sodar Connected Type = 1
+06/27/2020 06:53:58 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 06:55:19 Start
+06/27/2020 06:55:27 PutFileZip /usr/src/sodar/sodcon.new=0
+06/27/2020 06:55:37 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 06:59:55 Manually deconnected
+06/27/2020 06:53:24 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/27/2020 06:53:24 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/27/2020 06:53:34 Link Test ...
+06/27/2020 06:53:46 Link Error
+06/27/2020 06:53:49 Error Connection : 1,-10
+06/27/2020 06:54:34 Link Test ...
+06/27/2020 06:54:40 test port 21 ...
+06/27/2020 06:54:42 test port 23 ...
+06/27/2020 06:54:46 Ethernet Connexion=0
+06/27/2020 06:54:52 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/27/2020 06:54:56 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/27/2020 06:54:57 Sodar Connected Type = 1
+06/27/2020 06:54:58 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 06:55:07 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 06:56:15 Pause = 2
+06/27/2020 07:00:11 Start
+06/27/2020 07:00:21 PutFileZip /usr/src/sodar/sodcon.new=0
+06/27/2020 07:00:31 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 07:17:10 Disconnected by Exit
+06/27/2020 07:17:11 Exit From SodterGraphic
+06/27/2020 07:17:19 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/27/2020 07:17:19 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/27/2020 07:17:32 Erreur ping wifi
+06/27/2020 07:17:35 Error Connection : 2,-10
+06/27/2020 07:18:22 Erreur ping wifi
+06/27/2020 07:18:25 Error Connection : 2,-10
+06/27/2020 07:18:42 Erreur ping wifi
+06/27/2020 07:18:45 Error Connection : 2,-10
+06/27/2020 07:19:09 Exit From SodterGraphic
+06/27/2020 07:22:19 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/27/2020 07:22:19 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/27/2020 07:22:30 Link Test ...
+06/27/2020 07:22:35 test port 21 ...
+06/27/2020 07:22:37 test port 23 ...
+06/27/2020 07:22:44 Ethernet Connexion=0
+06/27/2020 07:22:49 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/27/2020 07:22:53 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/27/2020 07:22:54 Sodar Connected Type = 1
+06/27/2020 07:22:55 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 07:23:27 Start
+06/27/2020 07:23:34 PutFileZip /usr/src/sodar/sodcon.new=0
+06/27/2020 07:23:45 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 07:26:49 Manually deconnected
+06/27/2020 07:29:29 Link Test ...
+06/27/2020 07:29:33 Link Error
+06/27/2020 07:29:35 Error Connection : 1,-10
+06/27/2020 07:29:59 Link Test ...
+06/27/2020 07:30:11 Link Error
+06/27/2020 07:30:14 Error Connection : 1,-10
+06/27/2020 07:31:29 Link Test ...
+06/27/2020 07:31:35 test port 21 ...
+06/27/2020 07:31:37 test port 23 ...
+06/27/2020 07:31:42 Ethernet Connexion=0
+06/27/2020 07:31:47 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/27/2020 07:31:51 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/27/2020 07:31:52 Sodar Connected Type = 1
+06/27/2020 07:31:53 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 07:32:03 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 07:40:38 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 07:45:57 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 07:50:37 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 07:55:55 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 08:00:35 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 08:05:53 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 08:10:33 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 08:15:51 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 08:20:31 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 08:25:49 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 08:30:29 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 08:35:47 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 08:41:06 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 08:45:45 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 08:51:04 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 08:55:44 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 09:01:03 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 09:05:43 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 09:11:02 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 09:16:21 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 09:21:00 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 09:25:40 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 09:30:58 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 09:35:38 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 09:40:56 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 09:45:36 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 09:50:54 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 09:55:33 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 10:00:52 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 10:06:11 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 10:10:50 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 10:15:30 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 10:20:49 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 10:26:08 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 10:30:47 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 10:36:05 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 10:40:45 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 10:46:04 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 10:50:43 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 10:56:02 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 11:00:42 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 11:06:01 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 11:10:40 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 11:15:59 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 11:20:39 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 11:25:57 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 11:30:37 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 11:35:56 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 11:40:35 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 11:45:54 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 11:50:34 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 11:55:53 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 12:00:33 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 12:05:51 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 12:10:31 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 12:15:50 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 12:20:29 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 12:25:49 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 12:31:08 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 12:35:47 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 12:41:06 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 12:45:46 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 12:51:06 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 12:55:45 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 13:01:04 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 13:06:24 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 13:11:04 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 13:16:23 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 13:21:03 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 13:26:22 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 13:31:02 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 13:35:42 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 15:49:04 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/27/2020 15:49:04 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/27/2020 15:49:14 Link Test ...
+06/27/2020 15:49:20 test port 21 ...
+06/27/2020 15:49:22 test port 23 ...
+06/27/2020 15:49:27 Ethernet Connexion=0
+06/27/2020 15:49:33 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/27/2020 15:49:37 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/27/2020 15:49:38 Sodar Connected Type = 1
+06/27/2020 15:49:39 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 15:49:49 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 15:50:34 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 15:55:55 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 16:00:35 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 16:05:54 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 16:10:34 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 16:15:54 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 16:20:34 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 16:25:54 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 16:30:34 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 16:35:53 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 16:40:33 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 16:45:53 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 16:51:12 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 16:55:53 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 17:00:33 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 17:05:52 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 17:10:32 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 17:15:52 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 17:20:32 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 17:25:53 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 17:30:33 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 17:35:53 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 17:40:33 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 17:45:53 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 17:50:33 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 17:55:53 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 18:00:33 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 18:05:52 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 18:10:32 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 18:15:52 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 18:20:32 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 18:26:06 GetFileZip /usr/src/sodar/20001111.dat=0
+06/27/2020 20:58:15 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+06/27/2020 20:58:15 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+06/27/2020 20:59:05 Link Test ...
+06/27/2020 20:59:11 test port 21 ...
+06/27/2020 20:59:14 test port 23 ...
+06/27/2020 20:59:19 Ethernet Connexion=0
+06/27/2020 20:59:24 GetFileZip /usr/src/sodar/dirftp.dat=0
+06/27/2020 20:59:29 GetFileZip /usr/src/sodar/sodcon.ini=0
+06/27/2020 20:59:30 Sodar Connected Type = 1
+06/27/2020 20:59:31 GetFile /usr/src/sodar/gpa26-2.log = -1
+06/27/2020 20:59:40 GetFileZip /usr/src/sodar/20001112.dat=0
+06/27/2020 21:01:03 GetFileZip /usr/src/sodar/20001112.dat=0
+06/27/2020 21:05:42 GetFileZip /usr/src/sodar/20001112.dat=0
+06/27/2020 21:10:29 GetFileZip /usr/src/sodar/20001112.dat=0
+06/27/2020 21:12:07 Pause = 20
+06/27/2020 21:13:19 Manually deconnected
+06/27/2020 21:13:49 Exit From SodterGraphic
+07/04/2020 16:21:44 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+07/04/2020 16:21:44 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+07/04/2020 16:23:04 Link Test ...
+07/04/2020 16:23:17 Link Error
+07/04/2020 16:23:20 Error Connection : 1,-10
+07/04/2020 16:23:24 Link Test ...
+07/04/2020 16:23:36 Link Error
+07/04/2020 16:23:39 Error Connection : 1,-10
+07/04/2020 16:24:04 Link Test ...
+07/04/2020 16:24:11 Link Error
+07/04/2020 16:24:14 Error Connection : 1,-10
+07/04/2020 16:27:44 Link Test ...
+07/04/2020 16:27:49 test port 21 ...
+07/04/2020 16:27:51 test port 23 ...
+07/04/2020 16:27:57 Ethernet Connexion=0
+07/04/2020 16:28:02 GetFileZip /usr/src/sodar/dirftp.dat=0
+07/04/2020 16:28:06 GetFileZip /usr/src/sodar/sodcon.ini=0
+07/04/2020 16:28:07 Sodar Connected Type = 1
+07/04/2020 16:28:08 GetFile /usr/src/sodar/gpa26-2.log = -1
+07/04/2020 16:33:01 View OceanServer
+07/04/2020 16:35:44 GetFileZip /usr/src/sodar/20001118.dat=0
+07/04/2020 16:37:19 Pause = 2
+07/04/2020 16:41:08 Pause = 2
+07/04/2020 16:47:22 Start
+07/04/2020 16:47:29 PutFileZip /usr/src/sodar/sodcon.new=0
+07/04/2020 16:47:40 GetFile /usr/src/sodar/gpa26-2.log = -1
+07/04/2020 16:56:23 Start
+07/04/2020 16:56:29 PutFileZip /usr/src/sodar/sodcon.new=0
+07/04/2020 16:56:40 GetFile /usr/src/sodar/gpa26-2.log = -1
+07/04/2020 16:59:32 Manually deconnected
+07/04/2020 17:00:32 Link Test ...
+07/04/2020 17:00:37 test port 21 ...
+07/04/2020 17:00:39 test port 23 ...
+07/04/2020 17:00:46 Ethernet Connexion=0
+07/04/2020 17:00:51 GetFileZip /usr/src/sodar/dirftp.dat=0
+07/04/2020 17:00:56 GetFileZip /usr/src/sodar/sodcon.ini=0
+07/04/2020 17:00:57 Sodar Connected Type = 1
+07/04/2020 17:00:57 GetFile /usr/src/sodar/gpa26-2.log = -1
+07/04/2020 17:01:17 Start
+07/04/2020 17:01:24 PutFileZip /usr/src/sodar/sodcon.new=0
+07/04/2020 17:01:35 GetFile /usr/src/sodar/gpa26-2.log = -1
+07/04/2020 17:03:14 Manually deconnected
+07/04/2020 17:03:44 Link Test ...
+07/04/2020 17:03:49 test port 21 ...
+07/04/2020 17:03:51 test port 23 ...
+07/04/2020 17:03:58 Ethernet Connexion=0
+07/04/2020 17:04:03 GetFileZip /usr/src/sodar/dirftp.dat=0
+07/04/2020 17:04:07 GetFileZip /usr/src/sodar/sodcon.ini=0
+07/04/2020 17:04:09 Sodar Connected Type = 1
+07/04/2020 17:04:09 GetFile /usr/src/sodar/gpa26-2.log = -1
+07/04/2020 17:05:46 GetPause=-1
+07/04/2020 17:05:58 GetPause=-1
+07/04/2020 17:06:10 GetPause=-1
+07/04/2020 17:06:11 Error Timer GetPause : 0
+07/04/2020 17:06:32 GetPause=-1
+07/04/2020 17:08:07 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+07/04/2020 17:08:07 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+07/04/2020 17:08:17 Link Test ...
+07/04/2020 17:08:29 Link Error
+07/04/2020 17:08:32 Error Connection : 1,-10
+07/04/2020 17:10:28 Link Test ...
+07/04/2020 17:10:33 test port 21 ...
+07/04/2020 17:10:35 test port 23 ...
+07/04/2020 17:10:40 Ethernet Connexion=0
+07/04/2020 17:10:45 GetFileZip /usr/src/sodar/dirftp.dat=0
+07/04/2020 17:10:49 GetFileZip /usr/src/sodar/sodcon.ini=0
+07/04/2020 17:10:50 Sodar Connected Type = 1
+07/04/2020 17:10:51 GetFile /usr/src/sodar/gpa26-2.log = -1
+07/04/2020 17:11:00 GetFileZip /usr/src/sodar/20001118.dat=0
+07/04/2020 17:14:18 Pause = 20
+07/04/2020 17:16:06 GetPause=-1
+07/04/2020 17:16:18 GetPause=-1
+07/04/2020 17:16:30 GetPause=-1
+07/04/2020 17:16:31 Error Timer GetPause : 0
+07/04/2020 17:16:52 GetPause=-1
+07/04/2020 17:17:03 GetPause=-1
+08/11/2021 16:47:04 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+08/11/2021 16:47:04 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/02/2021 16:47:38 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+09/02/2021 16:47:38 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/02/2021 16:48:29 Link Test ...
+09/02/2021 16:48:34 Link Error
+09/02/2021 16:48:37 Error Connection : 1,-10
+09/02/2021 16:50:39 Link Test ...
+09/02/2021 16:50:44 test port 21 ...
+09/02/2021 16:50:47 test port 2100 ...
+09/02/2021 16:51:10 Error Connection : 1,-20
+09/02/2021 16:51:49 Link Test ...
+09/02/2021 16:51:58 Link Error
+09/02/2021 16:52:01 Error Connection : 1,-10
+09/02/2021 16:52:19 Link Test ...
+09/02/2021 16:52:24 test port 21 ...
+09/02/2021 16:53:07 test port 2100 ...
+09/02/2021 16:53:50 Error Connection : 1,-20
+09/02/2021 16:55:19 Link Test ...
+09/02/2021 16:55:24 test port 21 ...
+09/02/2021 16:56:10 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+09/02/2021 16:56:10 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/02/2021 16:56:50 Link Test ...
+09/02/2021 16:56:55 test port 21 ...
+09/02/2021 16:56:57 test port 23 ...
+09/02/2021 16:57:03 Ethernet Connexion=0
+09/02/2021 16:57:09 GetFileZip /usr/src/sodar/dirftp.dat=0
+09/02/2021 16:57:13 GetFileZip /usr/src/sodar/sodcon.ini=0
+09/02/2021 16:57:14 Sodar Connected Type = 1
+09/02/2021 16:57:15 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 16:57:24 GetFileZip /usr/src/sodar/20020117.dat=0
+09/02/2021 17:00:45 GetFileZip /usr/src/sodar/20020117.dat=0
+09/02/2021 17:06:04 GetFileZip /usr/src/sodar/20020117.dat=0
+09/02/2021 17:06:07 Pause = 20
+09/02/2021 17:07:31 View OceanServer
+09/02/2021 17:13:53 Pause = 45
+09/02/2021 17:20:23 View OceanServer
+09/02/2021 17:29:33 Start
+09/02/2021 17:29:41 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 17:29:51 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 17:30:45 Start
+09/02/2021 17:30:55 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 17:31:06 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 17:31:50 Start
+09/02/2021 17:31:57 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 17:32:08 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 17:33:21 Start
+09/02/2021 17:33:24 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 17:33:35 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 17:34:47 GetPause=-1
+09/02/2021 17:34:59 GetPause=-1
+09/02/2021 17:35:11 GetPause=-1
+09/02/2021 17:35:12 Error Timer GetPause : 0
+09/02/2021 17:35:22 Manually deconnected
+09/02/2021 17:35:58 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+09/02/2021 17:35:58 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/02/2021 17:36:18 Link Test ...
+09/02/2021 17:36:23 Link Error
+09/02/2021 17:36:26 Error Connection : 1,-10
+09/02/2021 17:37:48 Link Test ...
+09/02/2021 17:37:54 Link Error
+09/02/2021 17:37:57 Error Connection : 1,-10
+09/02/2021 17:38:19 Link Test ...
+09/02/2021 17:38:24 test port 21 ...
+09/02/2021 17:38:27 test port 2100 ...
+09/02/2021 17:38:50 Error Connection : 1,-20
+09/02/2021 17:39:50 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+09/02/2021 17:39:50 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/02/2021 17:40:00 Link Test ...
+09/02/2021 17:40:05 Link Error
+09/02/2021 17:40:08 Error Connection : 1,-10
+09/02/2021 17:41:30 Link Test ...
+09/02/2021 17:41:35 test port 21 ...
+09/02/2021 17:41:37 test port 23 ...
+09/02/2021 17:41:42 Ethernet Connexion=0
+09/02/2021 17:41:48 GetFileZip /usr/src/sodar/dirftp.dat=0
+09/02/2021 17:41:52 GetFileZip /usr/src/sodar/sodcon.ini=0
+09/02/2021 17:41:53 Sodar Connected Type = 1
+09/02/2021 17:41:54 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 17:42:07 View OceanServer
+09/02/2021 17:42:18 Start
+09/02/2021 17:42:27 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 17:42:37 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 17:44:17 FTP cd=-1
+09/02/2021 17:44:20 FTP cd=-1
+09/02/2021 17:44:31 GetPause=-1
+09/02/2021 17:44:32 Error Timer GetPause : 0
+09/02/2021 17:44:53 GetPause=-1
+09/02/2021 17:45:05 GetPause=-1
+09/02/2021 17:45:16 GetPause=-1
+09/02/2021 17:45:18 Error Timer GetPause : 1
+09/02/2021 17:59:34 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+09/02/2021 17:59:34 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/02/2021 17:59:44 Link Test ...
+09/02/2021 17:59:50 test port 21 ...
+09/02/2021 17:59:52 test port 23 ...
+09/02/2021 17:59:58 Ethernet Connexion=0
+09/02/2021 18:00:03 GetFileZip /usr/src/sodar/dirftp.dat=0
+09/02/2021 18:00:07 GetFileZip /usr/src/sodar/sodcon.ini=0
+09/02/2021 18:00:08 Sodar Connected Type = 1
+09/02/2021 18:00:09 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:00:18 GetFileZip /usr/src/sodar/20020117.dat=0
+09/02/2021 18:01:02 GetFileZip /usr/src/sodar/20020117.dat=0
+09/02/2021 18:05:41 GetFileZip /usr/src/sodar/20020117.dat=0
+09/02/2021 18:07:06 Pause = 2
+09/02/2021 18:10:22 Start
+09/02/2021 18:10:34 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 18:10:45 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:12:18 Start
+09/02/2021 18:12:25 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 18:12:36 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:13:55 Start
+09/02/2021 18:14:05 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 18:14:15 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:15:28 GetPause=-1
+09/02/2021 18:16:46 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+09/02/2021 18:16:46 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/02/2021 18:17:16 Link Test ...
+09/02/2021 18:17:22 test port 21 ...
+09/02/2021 18:17:24 test port 23 ...
+09/02/2021 18:17:31 Ethernet Connexion=0
+09/02/2021 18:17:36 GetFileZip /usr/src/sodar/dirftp.dat=0
+09/02/2021 18:17:40 GetFileZip /usr/src/sodar/sodcon.ini=0
+09/02/2021 18:17:42 Sodar Connected Type = 1
+09/02/2021 18:17:42 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:17:54 Start
+09/02/2021 18:17:57 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 18:18:08 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:20:05 Start
+09/02/2021 18:20:13 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 18:20:23 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:24:40 GetPause=-1
+09/02/2021 18:24:52 GetPause=-1
+09/02/2021 18:25:03 GetPause=-1
+09/02/2021 18:25:05 Error Timer GetPause : 0
+09/02/2021 18:25:38 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+09/02/2021 18:25:38 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/02/2021 18:26:29 Link Test ...
+09/02/2021 18:26:34 Link Error
+09/02/2021 18:26:37 Error Connection : 1,-10
+09/02/2021 18:26:49 Link Test ...
+09/02/2021 18:26:54 test port 21 ...
+09/02/2021 18:27:00 test port 2100 ...
+09/02/2021 18:27:23 Error Connection : 1,-20
+09/02/2021 18:27:39 Link Test ...
+09/02/2021 18:27:44 test port 21 ...
+09/02/2021 18:28:28 test port 2100 ...
+09/02/2021 18:29:11 Error Connection : 1,-20
+09/02/2021 18:29:20 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+09/02/2021 18:29:20 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+09/02/2021 18:29:41 Link Test ...
+09/02/2021 18:29:46 test port 21 ...
+09/02/2021 18:29:48 test port 23 ...
+09/02/2021 18:29:53 Ethernet Connexion=0
+09/02/2021 18:29:58 GetFileZip /usr/src/sodar/dirftp.dat=0
+09/02/2021 18:30:02 GetFileZip /usr/src/sodar/sodcon.ini=0
+09/02/2021 18:30:04 Sodar Connected Type = 1
+09/02/2021 18:30:04 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:30:56 Start
+09/02/2021 18:31:08 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 18:31:19 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:32:45 Manually deconnected
+09/02/2021 18:35:16 Link Test ...
+09/02/2021 18:35:20 Link Error
+09/02/2021 18:35:23 Error Connection : 1,-10
+09/02/2021 18:35:36 Link Test ...
+09/02/2021 18:35:41 test port 21 ...
+09/02/2021 18:35:45 test port 2100 ...
+09/02/2021 18:36:08 Error Connection : 1,-20
+09/02/2021 18:36:26 Link Test ...
+09/02/2021 18:36:31 test port 21 ...
+09/02/2021 18:37:15 test port 2100 ...
+09/02/2021 18:37:58 Error Connection : 1,-20
+09/02/2021 18:38:06 Link Test ...
+09/02/2021 18:38:11 test port 21 ...
+09/02/2021 18:38:34 test port 23 ...
+09/02/2021 18:38:39 Ethernet Connexion=0
+09/02/2021 18:38:44 GetFileZip /usr/src/sodar/dirftp.dat=0
+09/02/2021 18:38:48 GetFileZip /usr/src/sodar/sodcon.ini=0
+09/02/2021 18:38:50 Sodar Connected Type = 1
+09/02/2021 18:38:50 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:39:04 GetFileZip /usr/src/sodar/20020117.dat=0
+09/02/2021 18:42:54 GetFileZip /usr/src/sodar/20020117.dat=0
+09/02/2021 18:44:50 Pause = 20
+09/02/2021 18:45:42 Start
+09/02/2021 18:45:51 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 18:46:02 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:47:07 GetFileZip /usr/src/sodar/20020117.dat=0
+09/02/2021 18:50:47 Pause = 20
+09/02/2021 18:52:01 Start
+09/02/2021 18:52:13 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 18:52:24 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:53:32 Start
+09/02/2021 18:53:40 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 18:53:50 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:54:50 Start
+09/02/2021 18:54:54 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 18:55:05 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:56:21 Start
+09/02/2021 18:56:35 PutFileZip /usr/src/sodar/sodcon.new=0
+09/02/2021 18:56:46 GetFile /usr/src/sodar/gpa26-2.log = -1
+09/02/2021 18:57:33 GetPause=-1
+09/02/2021 18:57:45 GetPause=-1
+09/02/2021 18:57:57 GetPause=-1
+09/02/2021 18:57:58 Error Timer GetPause : 0
+09/02/2021 18:58:19 GetPause=-1
+09/02/2021 18:58:31 GetPause=-1
+09/02/2021 18:58:43 GetPause=-1
+09/02/2021 18:58:44 Error Timer GetPause : 1
+09/02/2021 18:59:04 GetPause=-1
+09/02/2021 18:59:16 GetPause=-1
+09/02/2021 18:59:28 GetPause=-1
+09/02/2021 18:59:29 Error Timer GetPause : 2
+09/02/2021 18:59:29 Disconnect auto
+09/02/2021 18:59:30 Link Test ...
+09/02/2021 18:59:35 test port 21 ...
+09/02/2021 19:00:19 test port 2100 ...
+09/02/2021 19:01:01 Connect auto = -20
+03/07/2022 08:17:43 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+03/07/2022 08:17:43 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+03/07/2022 08:17:54 Link Test ...
+03/07/2022 08:17:59 test port 21 ...
+03/07/2022 08:18:02 test port 2100 ...
+03/07/2022 08:18:25 Error Connection : 1,-20
+03/07/2022 08:19:34 Link Test ...
+03/07/2022 08:19:44 Link Error
+03/07/2022 08:19:47 Error Connection : 1,-10
+03/07/2022 08:20:25 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+03/07/2022 08:20:25 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+03/07/2022 08:20:35 Link Test ...
+03/07/2022 08:20:47 Link Error
+03/07/2022 08:20:50 Error Connection : 1,-10
+03/07/2022 08:25:05 Link Test ...
+03/07/2022 08:25:11 test port 21 ...
+03/07/2022 08:25:14 test port 2100 ...
+03/07/2022 08:25:37 Error Connection : 1,-20
+03/07/2022 08:28:56 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+03/07/2022 08:28:56 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+03/07/2022 08:29:10 Erreur ping wifi
+03/07/2022 08:29:13 Error Connection : 2,-10
+03/07/2022 08:29:30 Erreur ping wifi
+03/07/2022 08:29:33 Error Connection : 2,-10
+03/07/2022 08:44:54 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+03/07/2022 08:44:54 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+03/07/2022 08:45:04 Link Test ...
+03/07/2022 08:45:09 test port 21 ...
+03/07/2022 08:45:11 test port 23 ...
+03/07/2022 08:45:17 Ethernet Connexion=0
+03/07/2022 08:45:22 GetFileZip /usr/src/sodar/dirftp.dat=0
+03/07/2022 08:45:26 GetFileZip /usr/src/sodar/sodcon.ini=0
+03/07/2022 08:45:27 Sodar Connected Type = 1
+03/07/2022 08:45:28 GetFile /usr/src/sodar/gpa26-2.log = -1
+03/07/2022 08:45:37 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 08:46:21 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 08:46:56 View OceanServer
+03/07/2022 08:51:09 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 08:55:49 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 09:01:08 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 09:05:47 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 09:11:06 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 09:15:45 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 09:21:03 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 09:25:43 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 09:31:01 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 09:36:20 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 09:41:38 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 09:46:18 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 09:50:57 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 09:56:16 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 10:00:56 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 10:06:14 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 10:10:54 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 10:16:13 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 10:21:31 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 10:26:11 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 10:31:30 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 10:36:09 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 10:40:49 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 10:46:07 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 13:37:36 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+03/07/2022 13:37:36 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+03/07/2022 13:37:46 Link Test ...
+03/07/2022 13:37:52 test port 21 ...
+03/07/2022 13:37:54 test port 23 ...
+03/07/2022 13:37:59 Ethernet Connexion=0
+03/07/2022 13:38:04 GetFileZip /usr/src/sodar/dirftp.dat=0
+03/07/2022 13:38:08 GetFileZip /usr/src/sodar/sodcon.ini=0
+03/07/2022 13:38:09 Sodar Connected Type = 1
+03/07/2022 13:38:10 GetFile /usr/src/sodar/gpa26-2.log = -1
+03/07/2022 13:38:19 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 13:41:01 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 13:45:41 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 13:51:00 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 13:55:39 GetFileZip /usr/src/sodar/20020722.dat=0
+03/07/2022 13:59:54 Pause = 20
+03/07/2022 14:01:45 Disconnected by Exit
+03/07/2022 14:01:46 Exit From SodterGraphic
+03/08/2022 04:21:23 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+03/08/2022 04:21:23 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+03/08/2022 04:21:43 Link Test ...
+03/08/2022 04:21:49 test port 21 ...
+03/08/2022 04:21:51 test port 23 ...
+03/08/2022 04:21:57 Ethernet Connexion=0
+03/08/2022 04:22:02 GetFileZip /usr/src/sodar/dirftp.dat=0
+03/08/2022 04:22:06 GetFileZip /usr/src/sodar/sodcon.ini=0
+03/08/2022 04:22:07 Sodar Connected Type = 1
+03/08/2022 04:22:08 GetFile /usr/src/sodar/gpa26-2.log = -1
+03/08/2022 04:22:21 Start
+03/08/2022 04:22:23 PutFileZip /usr/src/sodar/sodcon.new=0
+03/08/2022 04:22:34 GetFile /usr/src/sodar/gpa26-2.log = -1
+03/08/2022 04:23:11 View OceanServer
+03/08/2022 04:23:42 Start
+03/08/2022 04:23:45 PutFileZip /usr/src/sodar/sodcon.new=-1
+03/08/2022 04:23:45 Error SauveFichierIniMain
+03/08/2022 04:23:46 FTP cd=-1
+03/08/2022 04:23:49 FTP cd=-1
+03/08/2022 04:23:51 FTP cd=-1
+03/08/2022 04:23:51 Error Timer GetPause : 0
+03/08/2022 04:24:12 GetPause=-1
+03/08/2022 04:24:24 GetPause=-1
+03/08/2022 04:24:36 GetPause=-1
+03/08/2022 04:24:37 Error Timer GetPause : 1
+03/08/2022 04:24:58 GetPause=-1
+03/08/2022 04:25:09 GetPause=-1
+03/08/2022 04:25:21 GetPause=-1
+03/08/2022 04:25:22 Error Timer GetPause : 2
+03/08/2022 04:25:22 Disconnect auto
+03/08/2022 04:25:23 Link Test ...
+03/08/2022 04:25:29 test port 21 ...
+03/08/2022 04:25:33 test port 2100 ...
+03/08/2022 04:25:55 Connect auto = -20
+03/08/2022 04:40:16 Link Test ...
+03/08/2022 04:40:22 test port 21 ...
+03/08/2022 04:40:45 test port 23 ...
+03/08/2022 04:40:50 Ethernet Connexion=0
+03/08/2022 04:40:55 GetFileZip /usr/src/sodar/dirftp.dat=0
+03/08/2022 04:41:00 GetFileZip /usr/src/sodar/sodcon.ini=0
+03/08/2022 04:41:01 Sodar Connected Type = 1
+03/08/2022 04:41:02 GetFile /usr/src/sodar/gpa26-2.log = -1
+03/08/2022 04:41:11 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 04:45:59 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 04:51:17 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 04:55:57 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 05:01:16 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 05:05:55 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 05:11:13 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 05:15:53 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 05:21:11 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 05:26:30 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 05:31:09 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 05:35:49 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 05:41:08 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 05:46:27 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 05:51:06 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 05:55:46 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 06:01:04 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 06:05:44 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 06:11:02 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 06:15:42 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 06:21:01 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 06:25:40 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 06:30:59 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 06:35:39 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 06:40:57 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 06:46:16 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 06:50:55 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 06:56:14 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 07:00:53 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 07:06:12 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 07:10:51 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 07:16:10 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 07:17:34 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 07:21:01 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 07:26:20 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 07:30:59 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 07:35:39 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 07:40:57 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 07:46:16 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 07:50:56 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 07:55:35 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 08:00:54 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 08:06:13 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 08:10:52 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 08:16:11 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 08:20:50 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 08:26:09 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 08:30:48 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 08:36:07 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 08:40:46 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 08:46:05 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 08:50:44 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 08:56:03 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 09:01:21 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 09:06:01 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 09:11:19 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 09:15:59 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 09:20:38 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 09:25:57 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 09:30:36 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 09:35:55 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 09:36:45 View OceanServer
+03/08/2022 09:40:37 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 09:45:56 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 09:46:06 View OceanServer
+03/08/2022 09:48:01 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 09:51:02 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 09:55:41 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 10:01:00 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 10:05:39 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 10:10:59 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 10:15:39 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 10:20:57 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 10:25:38 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 10:30:56 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 10:36:15 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 10:40:54 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 10:46:13 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 10:50:53 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 10:56:12 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 11:00:51 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 11:06:10 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 11:10:50 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 11:16:09 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 11:21:28 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 11:26:08 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 11:30:47 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 11:36:06 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 11:40:46 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 11:46:05 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 11:50:44 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 11:56:04 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:00:43 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:06:03 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:11:00 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+03/08/2022 12:11:00 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+03/08/2022 12:11:10 Link Test ...
+03/08/2022 12:11:15 test port 21 ...
+03/08/2022 12:11:17 test port 23 ...
+03/08/2022 12:11:22 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:11:23 Ethernet Connexion=0
+03/08/2022 12:11:28 GetFileZip /usr/src/sodar/dirftp.dat=0
+03/08/2022 12:11:32 GetFileZip /usr/src/sodar/sodcon.ini=0
+03/08/2022 12:11:33 Sodar Connected Type = 1
+03/08/2022 12:11:34 GetFile /usr/src/sodar/gpa26-2.log = -1
+03/08/2022 12:11:44 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:13:21 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:15:55 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:16:02 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:20:42 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:21:14 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:25:54 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:26:01 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:31:13 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:31:20 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:35:53 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:36:00 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:41:12 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:41:19 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:45:52 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:45:59 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:51:11 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:51:19 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:55:51 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 12:55:59 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 13:00:39 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 13:01:10 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 13:05:51 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 13:05:58 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 13:10:38 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 13:11:10 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 13:11:21 Manually deconnected
+03/08/2022 15:46:23 ****** SodterGraphic V2.71 of 2015 April 10 th on SODAR-PC ******
+03/08/2022 15:46:23 CurPath=C:\Users\sodar\Documents\Sodar-Machine\
+03/08/2022 15:46:33 Link Test ...
+03/08/2022 15:46:39 test port 21 ...
+03/08/2022 15:46:41 test port 23 ...
+03/08/2022 15:46:47 Ethernet Connexion=0
+03/08/2022 15:46:52 GetFileZip /usr/src/sodar/dirftp.dat=0
+03/08/2022 15:46:56 GetFileZip /usr/src/sodar/sodcon.ini=0
+03/08/2022 15:46:57 Sodar Connected Type = 1
+03/08/2022 15:46:58 GetFile /usr/src/sodar/gpa26-2.log = -1
+03/08/2022 15:47:09 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 15:51:10 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 15:55:50 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 16:01:10 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 16:05:50 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 16:11:09 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 16:15:49 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 16:21:08 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 16:25:48 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 16:31:08 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 16:35:49 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 16:41:08 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 16:45:48 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 16:51:08 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 16:56:28 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 17:01:09 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 17:06:29 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 17:11:10 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 17:15:51 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 17:21:11 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 17:25:51 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 17:31:11 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 17:35:51 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 17:41:11 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 17:45:51 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 17:51:11 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 17:55:52 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 18:01:12 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 18:05:52 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 18:11:12 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 18:15:53 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 18:21:13 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 18:25:54 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 18:31:14 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 18:35:54 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 18:41:14 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 18:45:55 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 18:51:16 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 18:55:56 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 19:01:20 GetFileZip /usr/src/sodar/20020723.dat=0
+03/08/2022 19:01:56 GetFileZip /usr/src/sodar/20020724.dat=0
+03/08/2022 19:05:32 GetFileZip /usr/src/sodar/20020724.dat=0
+03/08/2022 19:06:07 GetFileZip /usr/src/sodar/20020724.dat=0
+03/08/2022 19:09:55 GetFileZip /usr/src/sodar/20020724.dat=0
+03/08/2022 19:10:04 Pause = 20
+04/25/2022 15:14 ****** SodterGraphic V2.5-edf of 2015 January 29 th on DRAGONEYE ******

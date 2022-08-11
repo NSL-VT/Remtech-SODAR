@@ -1,0 +1,78 @@
+7/29/2016 8:26:27 AM --------------------------------------------------------------------------------
+7/29/2016 8:26:27 AM Verify SodterGraphic Closed ...
+7/29/2016 8:26:28 AM Verify GraphicDisplay Closed ...
+7/29/2016 8:26:28 AM Test Ethernet link ...
+7/29/2016 8:26:32 AM Test Port 21 ...
+7/29/2016 8:26:33 AM Test Port 2100 ...
+7/29/2016 8:26:35 AM Check FTP Connection, port=2100 ...
+7/29/2016 8:26:37 AM Test Port 23 ...
+7/29/2016 8:26:38 AM Test Port 2300 ...
+7/29/2016 8:26:40 AM Check TELNET Connection, port=2300 ...
+7/29/2016 8:26:42 AM Verify linux Kernel ...
+7/29/2016 8:26:43 AM Verify Sodar is Stopped ...
+7/29/2016 8:26:45 AM chmod a+w /home/sodar/updatesodar.tgz
+7/29/2016 8:26:47 AM updatesodar.tgz transfer in progress ...
+7/29/2016 8:26:50 AM updatesodarroot.sh
+7/29/2016 8:26:52 AM ***************************************************************
+7/29/2016 8:26:52 AM *           UPDATE SODAR SYSTEM  V1.0 Rev 2011-0510           *
+7/29/2016 8:26:52 AM user=root
+7/29/2016 8:26:52 AM Fri Jul 29 08:07:11 GMT 2016
+7/29/2016 8:26:52 AM 
+7/29/2016 8:26:52 AM 	Product Name: 945GSE
+7/29/2016 8:26:52 AM 	Serial Number: 0123456789
+7/29/2016 8:26:52 AM 
+7/29/2016 8:26:52 AM sodar is stopped
+7/29/2016 8:26:52 AM Update file find     : 20160729 080709
+7/29/2016 8:26:52 AM Old update file find : 20160701 175434
+7/29/2016 8:26:52 AM 1 : yes 20160729 20160701
+7/29/2016 8:26:52 AM Update = yes
+7/29/2016 8:26:52 AM Update : updatesodar.tgz and updatesodar.sh
+7/29/2016 8:26:52 AM home/sodar/updatesodar.sh
+7/29/2016 8:26:52 AM ** extract file home/sodar/updatesodar.sh = OK **
+7/29/2016 8:26:52 AM ***************************************************************
+7/29/2016 8:26:52 AM *           UPDATE SODAR SYSTEM 2016 july 1 st                *
+7/29/2016 8:26:52 AM user=root
+7/29/2016 8:26:52 AM Fri Jul 29 08:07:11 GMT 2016
+7/29/2016 8:26:52 AM 
+7/29/2016 8:26:52 AM usr/src/patest/pacheck
+7/29/2016 8:26:52 AM usr/src/patest/pa
+7/29/2016 8:26:52 AM usr/src/patest/parame.dat
+7/29/2016 8:26:52 AM usr/src/patest/taper52.pa0
+7/29/2016 8:26:52 AM usr/src/patest/taper52.pa0~
+7/29/2016 8:26:52 AM usr/src/patest/taper60.pa0
+7/29/2016 8:26:52 AM usr/src/patest/taper60.pa0~
+7/29/2016 8:26:52 AM usr/src/patest/taper60.pax
+7/29/2016 8:26:52 AM usr/src/patest/taper60.pax~
+7/29/2016 8:26:52 AM usr/src/patest/taper64.pa0
+7/29/2016 8:26:52 AM usr/src/patest/taper64.pa0~
+7/29/2016 8:26:52 AM usr/src/patest/taper64.pa0.ref
+7/29/2016 8:26:52 AM usr/src/patest/taper-new.pa1
+7/29/2016 8:26:52 AM usr/src/patest/tapernt.pa1
+7/29/2016 8:26:52 AM usr/src/patest/tapernt.pa1.new
+7/29/2016 8:26:52 AM usr/src/patest/tapernt.pa4
+7/29/2016 8:26:52 AM usr/src/patest/tapernt.pa5
+7/29/2016 8:26:52 AM usr/src/patest/taper.pa0
+7/29/2016 8:26:52 AM usr/src/patest/taper.pa1
+7/29/2016 8:26:52 AM usr/src/patest/taper.pa2
+7/29/2016 8:26:52 AM usr/src/patest/taper.pa3
+7/29/2016 8:26:52 AM usr/src/patest/taper.pa4
+7/29/2016 8:26:52 AM usr/src/patest/taper-ref.pa0
+7/29/2016 8:26:52 AM usr/src/patest/taper-ref.pa1
+7/29/2016 8:26:52 AM home/sodar/updatesodar.sh
+7/29/2016 8:26:52 AM ** tar = OK **
+7/29/2016 8:26:52 AM Temp Celcius Ocean   =     49.3
+7/29/2016 8:26:52 AM Compass              =     21.8
+7/29/2016 8:26:52 AM Pitch                =      0.0
+7/29/2016 8:26:52 AM Roll                 =      0.0
+7/29/2016 8:26:53 AM Updating Sodar is done ...
+7/29/2016 8:26:55 AM Updating gpa Program  ...
+7/29/2016 8:26:56 AM rm -f /home/sodar/gpa26
+7/29/2016 8:26:56 AM gpa26 transfer in progress ...
+7/29/2016 8:26:59 AM Telnet gpaPermission
+7/29/2016 8:27:01 AM -rwsrwsrwt 1 root root 1326631 2016-07-29 08:07 /usr/src/sodar/gpa26
+7/29/2016 8:27:03 AM Updating gpa is done ...
+destination = "C:\Users\sodar\Documents\sodar-machine"  
+************** executable files copy ************** 
+        1 file(s) copied.
+************** icon files copy ************** 
+        1 file(s) copied.

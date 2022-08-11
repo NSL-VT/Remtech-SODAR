@@ -1,0 +1,4 @@
+15 * * * * /bin/bash /home/sodar/gprs/startgprs.sh
+25 * * * * /bin/bash /home/sodar/gprs/getip.sh
+35 * * * * /bin/bash /home/sodar/gprs/sendfileftplog.sh
+45 13 * * * /bin/bash /home/sodar/gprs/sendfileftpdat.sh
