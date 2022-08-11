@@ -16,25 +16,28 @@ function [a, b] = sodar2mat(sodarFid)
 % a: 19 x 11 x n matrix
 %       Each row represents the data measured at an altitude increasing 
 %       from 0 (bottom row) to 200 (top row)
-%       Column 1: ALT
-%       Column 2: CT
-%       Column 3: SPEED [
-%       Column 4: DIR
-%       Column 5: W
-%       Column 6: SW
-%       Column 7: SU
-%       Column 8: SV
-%       Column 9: U'V'
-%       Column 10: U'W'
-%       Column 11: ETAM
+%       Column  1: ALT   altitude                [m]
+%       Column  2: CT    echo strength 
+%       Column  3: SPEED horizontal wind speed   [cm/s]
+%       Column  4: DIR   wind direction          [deg]
+%       Column  5: W     vertical wind speed     [cm/s]
+%       Column  6: SW    std.dev. of W           [cm/s]
+%       Column  7: SU    std.dev. of along-wind  [cm/s]
+%       Column  8: SV    std.dev. of cross-wind  [cm/s]
+%       Column  9: U'V'  ???
+%       Column 10: U'W'  ???
+%       Column 11: ETAM  turbulent mechanical    [cm^2/s^5]
+%                           dissipation rate
+%                           coefficient
 %
 % b: 4 x 10 x n matrix:
 %       Each row contains a different set of data (shown separated by 
 %       commas), the columns do not represent a consistent set of 
 %       measurements
-%       Row 1: GPS LAT, GPS LONG, ROLL, PITCH AZIMUT, T IN, PmBARS, T OUT, 
-%       RH%
-%       Row 2: BL#, MONTH, DAY, YEAR, HOUR, MIN, VAL1, VAL2, VAL3, VAL4
+%       Row 1: GPS LAT [deg], GPS LONG [deg], ROLL [deg], PITCH [deg],
+%       AZIMUTH [deg], T IN [deg C], PRESS [mbar], T OUT [deg C], REL.
+%       HUMIDITY [%] Row 2: BL#, MONTH, DAY, YEAR, HOUR, MIN, VAL1, VAL2,
+%       VAL3, VAL4
 %       Row 3: SPU1, SPU2, SPU3, SPU4, NOIS1, NOIS2, NOIS3, NOIS4, FEMAX, 
 %       SOFTW
 %       Row 4: FE11, FE12, FE21, FE22, SNR1, SNR2, SNR3, SNR4, CHECK, JAM
